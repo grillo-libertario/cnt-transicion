@@ -49,8 +49,7 @@ Apéndice 9. Parecer de la CNT sobre anarquismo, anarcosindicalismo y
 
 Sindicalismo revolucionario
 
- PRESENTACIÓN
-============
+#  PRESENTACIÓN
 
 Este escrito intenta abrir un camino que sirva para reflexionar y
 analizar la amplitud del movimiento libertario durante la transición.
@@ -62,153 +61,92 @@ El estudio se basa en el material encontrado en diversos archivos y
 hemerotecas. Y los apéndices constatan la amplitud del movimiento
 libertario
 
-I.  Transición española. Contexto histórico
-    =======================================
+# Transición española. Contexto histórico
 
-La **Transición española**​ es el período de la [**historia
-contemporánea de
-España**](https://es.wikipedia.org/wiki/Historia_contemporánea_de_España) en
-el que se llevó a cabo el proceso por el que
-el [**país**](https://es.wikipedia.org/wiki/España) dejó atrás
-el [**régimen dictatorial del general Francisco
-Franco**](https://es.wikipedia.org/wiki/Dictadura_de_Francisco_Franco) y
-pasó a regirse por
-una [**Constitución**](https://es.wikipedia.org/wiki/Constitución_española_de_1978) que
-restauraba
-la [**democracia**](https://es.wikipedia.org/wiki/Democracia). Dicha
-fase constituye la primera etapa del [**reinado de Juan Carlos
-I**](https://es.wikipedia.org/wiki/Reinado_de_Juan_Carlos_I_de_España).
+La Transición española es el período de la historia contemporánea de
+España en el que se llevó a cabo el proceso por el que el país dejó
+atrás el régimen dictatorial del general Francisco Franco y pasó a
+regirse por una Constitución que restauraba la democracia. Dicha fase
+constituye la primera etapa del reinado de Juan Carlos I.
 
 Existe cierto consenso en situar el inicio de la transición en la muerte
 del general Franco, el 20 de noviembre de 1975, tras la cual el
-denominado [**Consejo de
-Regencia**](https://es.wikipedia.org/wiki/Consejo_de_Regencia) asumió,
-de forma transitoria, las funciones de la jefatura del Estado hasta el
-22 de noviembre, fecha en la que fue
-proclamado [**rey**](https://es.wikipedia.org/wiki/Rey_de_España) ante
-las [**Cortes**](https://es.wikipedia.org/wiki/Cortes_franquistas) y
-el [**Consejo del
-Reino**](https://es.wikipedia.org/wiki/Consejo_del_Reino) [**Juan Carlos
-I de Borbón**](https://es.wikipedia.org/wiki/Juan_Carlos_I_de_España),
-que había sido designado seis años antes por Franco como su sucesor
-«[**a título de
-rey**](https://es.wikipedia.org/wiki/Ley_de_Sucesión_en_la_Jefatura_del_Estado)».
+denominado Consejo de Regencia asumió, de forma transitoria, las
+funciones de la jefatura del Estado hasta el 22 de noviembre, fecha en
+la que fue proclamado rey ante las Cortes y el Consejo del Reino Juan
+Carlos I de Borbón, que había sido designado seis años antes por Franco
+como su sucesor «a título de rey».
 
-El rey confirmó en su puesto al [**presidente del
-Gobierno**](https://es.wikipedia.org/wiki/Presidente_del_Gobierno_de_España) del
-régimen franquista, [**Carlos Arias
-Navarro**](https://es.wikipedia.org/wiki/Carlos_Arias_Navarro). No
-obstante, pronto se manifestaría la dificultad de llevar a cabo reformas
-políticas bajo su gobierno, lo que produciría un distanciamiento cada
-vez mayor entre Arias Navarro y Juan Carlos I. Finalmente el rey le
-exigió la dimisión el 1 de julio de 1976 y Arias Navarro se la presentó.
-Le sustituyó [**Adolfo
-Suárez**](https://es.wikipedia.org/wiki/Adolfo_Suárez), quien se
+El rey confirmó en su puesto al presidente del Gobierno del régimen
+franquista, Carlos Arias Navarro. No obstante, pronto se manifestaría la
+dificultad de llevar a cabo reformas políticas bajo su gobierno, lo que
+produciría un distanciamiento cada vez mayor entre Arias Navarro y Juan
+Carlos I. Finalmente el rey le exigió la dimisión el 1 de julio de 1976
+y Arias Navarro se la presentó. Le sustituyó Adolfo Suárez, quien se
 encargaría de entablar las conversaciones con los principales líderes de
-los diferentes [**partidos
-políticos**](https://es.wikipedia.org/wiki/Partido_político) de
-la [**oposición
-democrática**](https://es.wikipedia.org/wiki/Oposición_al_franquismo) y
-fuerzas sociales, más o menos legales o toleradas, de cara a instaurar
-un régimen parlamentario en España.
+los diferentes partidos políticos de la oposición democrática y fuerzas
+sociales, más o menos legales o toleradas, de cara a instaurar un
+régimen parlamentario en España.
 
-El camino utilizado fue la elaboración de una nueva [**Ley
-Fundamental**](https://es.wikipedia.org/wiki/Leyes_Fundamentales_del_Reino),
-la octava, la [**Ley para la Reforma
-Política**](https://es.wikipedia.org/wiki/Ley_para_la_Reforma_Política) que,
-no sin tensiones, fue finalmente aprobada por las Cortes franquistas y
-sometida
-a [**referéndum**](https://es.wikipedia.org/wiki/Referéndum_sobre_la_Ley_para_la_Reforma_Política) el
-día 15 de diciembre de 1976. Como consecuencia de su aprobación por el
-pueblo español, esta ley se promulgó el 4 de enero de 1977. Esta norma
-contenía la derogación tácita del sistema político franquista en solo
-cinco artículos y una convocatoria de elecciones democráticas.
+El camino utilizado fue la elaboración de una nueva Ley Fundamental, la
+octava, la Ley para la Reforma Política que, no sin tensiones, fue
+finalmente aprobada por las Cortes franquistas y sometida
+a referéndum el día 15 de diciembre de 1976. Como consecuencia de su
+aprobación por el pueblo español, esta ley se promulgó el 4 de enero de
+1977. Esta norma contenía la derogación tácita del sistema político
+franquista en solo cinco artículos y una convocatoria de elecciones
+democráticas.
 
-Las [**elecciones**](https://es.wikipedia.org/wiki/Elecciones_generales_de_España_de_1977) se
-celebraron finalmente el día 15 de junio de 1977.​ Eran las primeras
-desde la [**Guerra
-Civil**](https://es.wikipedia.org/wiki/Guerra_Civil_Española). La
-coalición [**Unión de Centro
-Democrático**](https://es.wikipedia.org/wiki/Unión_de_Centro_Democrático) (UCD),
-liderada por Adolfo Suárez, resultó la candidatura más votada aunque no
-alcanzó la mayoría absoluta y fue la encargada de formar gobierno. A
-partir de ese momento comenzó el proceso de construcción de la
-democracia en España y de la redacción de una [**nueva
-constitución**](https://es.wikipedia.org/wiki/Constitución_española_de_1978).
-El 6 de diciembre de 1978 se ratificó en [**referéndum la Constitución
-española**](https://es.wikipedia.org/wiki/Referéndum_para_la_ratificación_de_la_Constitución_española) con
-el 87,78% de votos favorables, que representaban el 58,97% del censo
-electoral, entrando en vigor el 29 de diciembre. ​
+Las elecciones se celebraron finalmente el día 15 de junio de 1977.
+Eran las primeras desde la Guerra Civil. La coalición Unión de Centro
+Democrático (UCD), liderada por Adolfo Suárez, resultó la candidatura
+más votada aunque no alcanzó la mayoría absoluta y fue la encargada de
+formar gobierno. A partir de ese momento comenzó el proceso de
+construcción de la democracia en España y de la redacción de una nueva
+constitución. El 6 de diciembre de 1978 se ratificó en referéndum la
+Constitución española con el 87,78% de votos favorables, que
+representaban el 58,97% del censo electoral, entrando en vigor el 29 de
+diciembre. 
 
 A principios de 1981 dimitió Adolfo Suárez debido, entre otras razones,
 al distanciamiento con el monarca y a las presiones internas de su
-partido. Durante la celebración de la votación en el [**Congreso de los
-Diputados**](https://es.wikipedia.org/wiki/Congreso_de_los_Diputados) para
-elegir como sucesor a [**Leopoldo
-Calvo-Sotelo**](https://es.wikipedia.org/wiki/Leopoldo_Calvo-Sotelo) (UCD)
-se produjo el [**golpe de
-Estado**](https://es.wikipedia.org/wiki/Golpe_de_Estado_en_España_de_1981) dirigido
-por el teniente coronel [**Antonio
-Tejero**](https://es.wikipedia.org/wiki/Antonio_Tejero), el
-general [**Alfonso
-**](https://es.wikipedia.org/wiki/Alfonso_Armada)[**Armada**](https://es.wikipedia.org/wiki/Alfonso_Armada)**
-**y el teniente general [**Jaime Miláns del
-Bosch**](https://es.wikipedia.org/wiki/Jaime_Miláns_del_Bosch), entre
-otros. El golpe, conocido como *23-F*, fracasó.
+partido. Durante la celebración de la votación en el Congreso de los
+Diputados para elegir como sucesor a Leopoldo Calvo-Sotelo (UCD) se
+produjo el golpe de Estado dirigido por el teniente coronel Antonio
+Tejero, el general Alfonso Armada y el teniente general Jaime Miláns del
+Bosch, entre otros. El golpe, conocido como 23-F, fracasó.
 
 Las tensiones internas de UCD provocarían su desintegración a lo largo
 de 1981 y 1982, llegando finalmente a disolverse en 1983. El
-segmento [**democristiano**](https://es.wikipedia.org/wiki/Democristiano) terminaría
-integrándose en [**Alianza
-Popular**](https://es.wikipedia.org/wiki/Alianza_Popular), pasando así a
-ocupar la franja del centroderecha. Por otro lado, los miembros más
-cercanos a
-la [**socialdemocracia**](https://es.wikipedia.org/wiki/Socialdemocracia) se
-unirían a las filas del [**Partido Socialista Obrero
-Español**](https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Español) (PSOE).
-Mientras, el expresidente Suárez y un grupo de disidentes de UCD
-iniciaron un nuevo proyecto
-político [**centrista**](https://es.wikipedia.org/wiki/Centro_político) que
-mantendría representación parlamentaria en el Congreso hasta
-las [**elecciones de
-1993**](https://es.wikipedia.org/wiki/Elecciones_generales_de_España_de_1993),
-el [**Centro Democrático y
-Social**](https://es.wikipedia.org/wiki/Centro_Democrático_y_Social).
+segmento democristiano terminaría integrándose en Alianza Popular,
+pasando así a ocupar la franja del centroderecha. Por otro lado, los
+miembros más cercanos a la socialdemocracia se unirían a las filas
+del Partido Socialista Obrero Español (PSOE). Mientras, el expresidente
+Suárez y un grupo de disidentes de UCD iniciaron un nuevo proyecto
+político centrista que mantendría representación parlamentaria en el
+Congreso hasta las elecciones de 1993, el Centro Democrático y Social.
 
-El PSOE sucedió a la UCD tras obtener la [**mayoría
-absoluta**](https://es.wikipedia.org/wiki/Mayoría_absoluta) en
-los [**comicios del
-82**](https://es.wikipedia.org/wiki/Elecciones_generales_españolas_de_1982),
-ocupando 202 de los 350 escaños, y comenzando así
-la [**ii**](https://es.wikipedia.org/wiki/II_legislatura_de_España)[** legislatura
-democrática**](https://es.wikipedia.org/wiki/II_legislatura_de_España).
-Por primera vez desde las [**elecciones generales de
-1936**](https://es.wikipedia.org/wiki/Elecciones_generales_españolas_de_1936),
-un partido considerado
-de [**izquierdas**](https://es.wikipedia.org/wiki/Izquierda_(política)) o *progresista* iba
-a formar gobierno. La mayoría de los historiadores sitúan en este
-acontecimiento el final de la Transición, aunque alguno lo prolonga al 1
-de enero de 1986, cuando se produjo la entrada de España en
-la [**Comunidad
-Europea**](https://es.wikipedia.org/wiki/Comunidad_Europea).
+El PSOE sucedió a la UCD tras obtener la mayoría absoluta en
+los comicios del 82, ocupando 202 de los 350 escaños, y comenzando así
+la ii legislatura democrática. Por primera vez desde las elecciones
+generales de 1936, un partido considerado
+de izquierdas o progresista iba a formar gobierno. La mayoría de los
+historiadores sitúan en este acontecimiento el final de la Transición,
+aunque alguno lo prolonga al 1 de enero de 1986, cuando se produjo la
+entrada de España en la Comunidad Europea.
 
 Durante la transición tuvieron lugar varios centenares de muertes, tanto
-a manos de grupos armados de extrema izquierda,
-principalmente [**Euskadi Ta
-Askatasuna**](https://es.wikipedia.org/wiki/Euskadi_Ta_Askatasuna) (ETA)
-y los [**Grupos de Resistencia Antifascista Primero de
-Octubre**](https://es.wikipedia.org/wiki/Grupos_de_Resistencia_Antifascista_Primero_de_Octubre) (GRAPO),[*^*5*^*](https://es.wikipedia.org/wiki/Transición_española#cite_note-5)​
-como por ataques de grupos armados de [**extrema
-derecha**](https://es.wikipedia.org/wiki/Terrorismo_tardofranquista);
-otros perecieron a causa de la intervención de las fuerzas del orden
-público. Las investigaciones al respecto sitúan el número de víctimas
-mortales en un intervalo de 500 a 700 personas (entre 1975 y los
-primeros años de la década de los 80), la inmensa mayoría fruto de
+a manos de grupos armados de extrema izquierda, principalmente Euskadi
+Ta Askatasuna (ETA) y los Grupos de Resistencia Antifascista Primero de
+Octubre (GRAPO),5 como por ataques de grupos armados de extrema
+derecha; otros perecieron a causa de la intervención de las fuerzas del
+orden público. Las investigaciones al respecto sitúan el número de
+víctimas mortales en un intervalo de 500 a 700 personas (entre 1975 y
+los primeros años de la década de los 80), la inmensa mayoría fruto de
 atentados terroristas, destacando la banda armada ETA, que fue
-directamente responsable de más de la mitad de las muertes. ​
+directamente responsable de más de la mitad de las muertes. 
 
-Ojeada al año 1976
-==================
+# Ojeada al año 1976
 
 La CNT se opuso a la transición porque quien la llevaba a término era la
 burguesía, y su objetivo era continuar explotando a los trabajadores.
@@ -291,11 +229,9 @@ intentado la negociación vertical y un pequeño grupo de trabajadores,
 coordinado por Cipriano Damiano, que colaboraba con otras organizaciones
 no libertarias^[^1]^.
 
-III. Vistazo al año 1977
-========================
+# III. Vistazo al año 1977
 
-III.1. Qué es la CNT y lo que quiere
-------------------------------------
+## III.1. Qué es la CNT y lo que quiere
 
 En el año 1977 la CNT lanza un impreso^[^2]\ ^en el que se define como
 un sindicato revolucionario y autogestionario que practica la democracia
@@ -311,8 +247,7 @@ cambio social.
 Aboga por la asamblea de fábrica, la pluralidad sindical, la unidad de
 acción en la base y el abandono de la CNS (Sindicato Vertical).
 
-III.2. Coordinadora de presos en lucha
---------------------------------------
+## III.2. Coordinadora de presos en lucha
 
 La COPEL se constituye a finales de 1976 por un grupo de presos de
 Carabanchel para luchar por los derechos y la mejora de las condiciones
@@ -346,251 +281,142 @@ Las reivindicaciones de la COPEL son las siguientes:
 -   Poder tener redenciones de pena por trabajo para todos los presos
     por igual
 
-III.3. Los pactos de la Moncloa
--------------------------------
+## III.3. Los pactos de la Moncloa
 
-Los **Pactos de la Moncloa** (formalmente fueron dos,
-denominados **Acuerdo sobre el programa de saneamiento y reforma de la
-economía** y **Acuerdo sobre el programa de actuación jurídica y
-política**) fueron los acuerdos firmados en el [*Palacio de la
-Moncloa*](https://es.wikipedia.org/wiki/Palacio_de_la_Moncloa) durante
-la [*transición
-española*](https://es.wikipedia.org/wiki/Transición_española) el [*25 de
-octubre*](https://es.wikipedia.org/wiki/25_de_octubre) de [*1977*](https://es.wikipedia.org/wiki/1977),
-tomando conocimiento y comprometiéndose a su desarrollo el Congreso de
-los Diputados dos días después, y el Senado el 11 de noviembre, entre
-el [*Gobierno de
-España*](https://es.wikipedia.org/wiki/Gobierno_de_España) de
-la [*legislatura
-constituyente*](https://es.wikipedia.org/wiki/Legislatura_Constituyente_de_España),
-presidido por [*Adolfo
-Suárez*](https://es.wikipedia.org/wiki/Adolfo_Suárez), los
-principales [*partidos
-políticos*](https://es.wikipedia.org/wiki/Partido_político) con
-representación parlamentaria en el [*Congreso de los
-Diputados*](https://es.wikipedia.org/wiki/Congreso_de_los_Diputados_de_España),
-con el apoyo de las asociaciones empresariales y el
-sindicato [*Comisiones
-Obreras*](https://es.wikipedia.org/wiki/Comisiones_Obreras) (excepto
-algunas secciones sindicales del mismo) y el rechazo de la [*Unión
-General de
-Trabajadores*](https://es.wikipedia.org/wiki/Unión_General_de_Trabajadores) (que
-finalmente lo firmaría) y de la [*Confederación Nacional del
-Trabajo*](https://es.wikipedia.org/wiki/Confederación_Nacional_del_Trabajo) (CNT),
-con el objetivo de procurar la estabilización del proceso de transición
-al sistema democrático, así como adoptar una [*política
-económica*](https://es.wikipedia.org/wiki/Política_económica) que
-contuviera la
-gran [*inflación*](https://es.wikipedia.org/wiki/Inflación) que
-alcanzaba el 26,39%.
-
-![](Pictures/100002F8000002E500000295528803193B45C417.wmf){width="0.724cm"
-height="0.636cm"}
+Los Pactos de la Moncloa (formalmente fueron dos, denominados Acuerdo
+sobre el programa de saneamiento y reforma de la economía y Acuerdo
+sobre el programa de actuación jurídica y política) fueron los acuerdos
+firmados en el Palacio de la Moncloa durante la transición
+española el 25 de octubre de 1977, tomando conocimiento y
+comprometiéndose a su desarrollo el Congreso de los Diputados dos días
+después, y el Senado el 11 de noviembre, entre el Gobierno de España de
+la legislatura constituyente, presidido por Adolfo Suárez, los
+principales partidos políticos con representación parlamentaria en
+el Congreso de los Diputados, con el apoyo de las asociaciones
+empresariales y el sindicato Comisiones Obreras (excepto algunas
+secciones sindicales del mismo) y el rechazo de la Unión General de
+Trabajadores (que finalmente lo firmaría) y de la Confederación Nacional
+del Trabajo (CNT), con el objetivo de procurar la estabilización del
+proceso de transición al sistema democrático, así como adoptar
+una política económica que contuviera la gran inflación que alcanzaba el
+26,39%.
 
 ### La coyuntura económica
 
-La [*coyuntura*](https://es.wikipedia.org/wiki/Coyuntura) económica era
-grave después de que la [*crisis del petróleo de
-1973*](https://es.wikipedia.org/wiki/Crisis_del_petróleo_de_1973) alcanzara
-de lleno a España -a la que no había afectado tan rápidamente como a los
-países europeos considerados aliados
-de [*Israel*](https://es.wikipedia.org/wiki/Israel) por
-la [*OPEP*](https://es.wikipedia.org/wiki/OPEP)-, el desempleo -que
-durante el franquismo quedaba ocultado por la emigración a Europa, y que
-ahora en crisis no admitía, produciéndose en cambio el retorno de los
-emigrantes-,
-la [*inflación*](https://es.wikipedia.org/wiki/Inflación) había superado
-la frontera del 26%​ a mediados del año 1977, y se temía la posibilidad
-de alcanzar cifras de
-verdadera [*hiperinflación*](https://es.wikipedia.org/wiki/Hiperinflación),
-como las que posteriormente sufrieron los países iberoamericanos. Se
-hablaba de [*fuga de
-capitales*](https://es.wikipedia.org/wiki/Fuga_de_capitales) desde los
+La coyuntura económica era grave después de que la crisis del petróleo
+de 1973 alcanzara de lleno a España -a la que no había afectado tan
+rápidamente como a los países europeos considerados aliados
+de Israel por la OPEP-, el desempleo -que durante el franquismo quedaba
+ocultado por la emigración a Europa, y que ahora en crisis no admitía,
+produciéndose en cambio el retorno de los emigrantes-,
+la inflación había superado la frontera del 26% a mediados del año
+1977, y se temía la posibilidad de alcanzar cifras de
+verdadera hiperinflación, como las que posteriormente sufrieron los
+países iberoamericanos. Se hablaba de fuga de capitales desde los
 últimos años del franquismo. Los empresarios, acostumbrados
-al [*corporativismo*](https://es.wikipedia.org/wiki/Corporativismo) y
-al [*intervencionismo*](https://es.wikipedia.org/wiki/Intervencionismo) que
-presidía las relaciones económicas y sociales durante el franquismo,
-recelaban de la nueva situación política y de los nuevos interlocutores
-sociales, los [*sindicatos*](https://es.wikipedia.org/wiki/Sindicato) de
-clase, que exhibían una retórica reivindicativa que, según como fuera
-entendida, a veces era tomada por revolucionaria.
+al corporativismo y al intervencionismo que presidía las relaciones
+económicas y sociales durante el franquismo, recelaban de la nueva
+situación política y de los nuevos interlocutores sociales,
+los sindicatos de clase, que exhibían una retórica reivindicativa que,
+según como fuera entendida, a veces era tomada por revolucionaria.
 
 ### Conversaciones previas
 
 Con anterioridad, Adolfo Suárez había sostenido conversaciones
-con [*Felipe
-González*](https://es.wikipedia.org/wiki/Felipe_González) y [*Santiago
-Carrillo*](https://es.wikipedia.org/wiki/Santiago_Carrillo), después de
-constituirse las [*Cortes
-Generales*](https://es.wikipedia.org/wiki/Cortes_Generales) tras las
-elecciones del [*15 de
-junio*](https://es.wikipedia.org/wiki/15_de_junio) de [*1977*](https://es.wikipedia.org/wiki/1977),
-con el fin de sondear la posibilidad de un acuerdo de estabilidad, dado
-que el apoyo parlamentario del Gobierno no era de [*mayoría
-absoluta*](https://es.wikipedia.org/wiki/Mayoría_absoluta). Además, las
+con Felipe González y Santiago Carrillo, después de constituirse
+las Cortes Generales tras las elecciones del 15 de junio de 1977, con el
+fin de sondear la posibilidad de un acuerdo de estabilidad, dado que el
+apoyo parlamentario del Gobierno no era de mayoría absoluta. Además, las
 Cortes no se habían planteado como constituyentes, y esa era la
 intención de la oposición y de una parte significativa de miembros de
-la [*Unión de Centro
-Democrático*](https://es.wikipedia.org/wiki/Unión_de_Centro_Democrático_(España)),
-partido del gobierno.
+la Unión de Centro Democrático, partido del gobierno.
 
-Al mismo tiempo, Suárez encargó al [*Ministro de Economía y
-Hacienda*](https://es.wikipedia.org/wiki/Ministro_de_Economía_y_Hacienda_de_España), [*Enrique
-Fuentes
-Quintana*](https://es.wikipedia.org/wiki/Enrique_Fuentes_Quintana), que
-tratase la posibilidad de un acuerdo marco con los nuevos sindicatos
-legalizados, [*Unión General de
-Trabajadores*](https://es.wikipedia.org/wiki/Unión_General_de_Trabajadores) (UGT)
-y [*Comisiones
-Obreras*](https://es.wikipedia.org/wiki/Comisiones_Obreras) (CC.OO.),
-para evitar el alto nivel de [*conflictividad
-social*](https://es.wikipedia.org/wiki/Conflictividad_social). La UGT y
-la [*CNT*](https://es.wikipedia.org/wiki/Confederación_Nacional_del_Trabajo) rechazaron
-el acuerdo, así como también algunas secciones sindicales de Comisiones
-Obreras. Más tarde las centrales obreras UGT y CC.OO. finalmente
-firmaron el acuerdo, junto a la Patronal y otras fuerzas políticas
-españolas, siendo la anarcosindical CNT quien mostró su total rechazo a
-los Pactos.
+Al mismo tiempo, Suárez encargó al Ministro de Economía y
+Hacienda, Enrique Fuentes Quintana, que tratase la posibilidad de un
+acuerdo marco con los nuevos sindicatos legalizados, Unión General de
+Trabajadores (UGT) y Comisiones Obreras (CC.OO.), para evitar el alto
+nivel de conflictividad social. La UGT y la CNT rechazaron el acuerdo,
+así como también algunas secciones sindicales de Comisiones Obreras. Más
+tarde las centrales obreras UGT y CC.OO. finalmente firmaron el acuerdo,
+junto a la Patronal y otras fuerzas políticas españolas, siendo la
+anarcosindical CNT quien mostró su total rechazo a los Pactos.
 
 ### Los acuerdos
 
-En el **terreno político** se acordó modificar las restricciones de
-la [*libertad de
-prensa*](https://es.wikipedia.org/wiki/Libertad_de_prensa), quedando
-prohibida la censura previa y dejando al [*poder
-judicial*](https://es.wikipedia.org/wiki/Poder_judicial) las decisiones
-sobre la misma; se modificó la [*legislación sobre secretos
-oficiales*](https://es.wikipedia.org/wiki/Ley_de_secretos_oficiales) para
-permitir a la oposición el acceso a la información imprescindible para
-cumplir sus obligaciones parlamentarias; se aprobaron los derechos [*de
-reunión*](https://es.wikipedia.org/wiki/Derecho_de_reunión), de
-asociación política y la [*libertad de
-expresión*](https://es.wikipedia.org/wiki/Libertad_de_expresión) mediante
-la propaganda, tipificando los delitos correspondientes por la violación
-de estos derechos; se creó el [*delito de
-tortura*](https://es.wikipedia.org/w/index.php?title=Delito_de_tortura&action=edit&redlink=1);
-se reconoció la asistencia letrada a los detenidos; se derogó la
-estructura del [*Movimiento
-Nacional*](https://es.wikipedia.org/wiki/Movimiento_Nacional), así como
+En el terreno político se acordó modificar las restricciones de
+la libertad de prensa, quedando prohibida la censura previa y dejando
+al poder judicial las decisiones sobre la misma; se modificó
+la legislación sobre secretos oficiales para permitir a la oposición el
+acceso a la información imprescindible para cumplir sus obligaciones
+parlamentarias; se aprobaron los derechos de reunión, de asociación
+política y la libertad de expresión mediante la propaganda, tipificando
+los delitos correspondientes por la violación de estos derechos; se creó
+el delito de tortura; se reconoció la asistencia letrada a los
+detenidos; se derogó la estructura del Movimiento Nacional, así como
 otras medidas sobre la restricción de la jurisdicción penal militar.
 
-En **materia económica** se reconoció el [*despido
-libre*](https://es.wikipedia.org/w/index.php?title=Despido_libre&action=edit&redlink=1) para
-un máximo del 5 por 100 de las plantillas de las empresas, el [*derecho
-de
-asociación*](https://es.wikipedia.org/wiki/Derecho_de_asociación) sindical,
-el límite de incremento de salarios se fijó en el 22% (inflación
-prevista para [*1978*](https://es.wikipedia.org/wiki/1978)), se
-estableció una contención de la [*masa
-monetaria*](https://es.wikipedia.org/wiki/Masa_monetaria) y
-la [*devaluación*](https://es.wikipedia.org/wiki/Devaluación) de
-la [*peseta*](https://es.wikipedia.org/wiki/Peseta) (fijando el valor
-real del [*mercado
-financiero*](https://es.wikipedia.org/wiki/Mercado_financiero)) para
-contener la inflación; [*reforma de la administración
-tributaria*](https://es.wikipedia.org/wiki/Reforma_fiscal_de_1977) ante
-el [*déficit público*](https://es.wikipedia.org/wiki/Déficit_público),
-así como medidas de control financiero a través del Gobierno y
-el [*Banco de
-España*](https://es.wikipedia.org/wiki/Banco_de_España) ante el riesgo
-de quiebras bancarias y la fuga de capitales al exterior.
+En materia económica se reconoció el despido libre para un máximo del 5
+por 100 de las plantillas de las empresas, el derecho de
+asociación sindical, el límite de incremento de salarios se fijó en el
+22% (inflación prevista para 1978), se estableció una contención de
+la masa monetaria y la devaluación de la peseta (fijando el valor real
+del mercado financiero) para contener la inflación; reforma de la
+administración tributaria ante el déficit público, así como medidas de
+control financiero a través del Gobierno y el Banco de España ante el
+riesgo de quiebras bancarias y la fuga de capitales al exterior.
 
-En **el ámbito social** en relación a los [*derechos de las
-mujeres*](https://es.wikipedia.org/wiki/Emancipación_de_la_mujer) los
-pactos establecieron la reforma del código penal en lo referente a la
-despenalización
-del [*adulterio*](https://es.wikipedia.org/wiki/Adulterio) y
-el [*amancebamiento*](https://es.wikipedia.org/wiki/Concubinato) (relaciones
-sexuales entre hombre y mujer no casados entre sí), la despenalización y
-la regulación de la venta de anticonceptivos y la modificación de las
+En el ámbito social en relación a los derechos de las mujeres los pactos
+establecieron la reforma del código penal en lo referente a la
+despenalización del adulterio y el amancebamiento (relaciones sexuales
+entre hombre y mujer no casados entre sí), la despenalización y la
+regulación de la venta de anticonceptivos y la modificación de las
 edades de la mujer tomadas en consideración para la tipificación
-del [*rapto*](https://es.wikipedia.org/wiki/Rapto) y
-del [*estupro*](https://es.wikipedia.org/wiki/Estupro). ​
+del rapto y del estupro. 
 
-Los firmantes fueron finalmente [*Adolfo
-Suárez*](https://es.wikipedia.org/wiki/Adolfo_Suárez) en nombre del
-gobierno, [*Leopoldo
-Calvo-Sotelo*](https://es.wikipedia.org/wiki/Leopoldo_Calvo-Sotelo) (por [*UCD*](https://es.wikipedia.org/wiki/Unión_de_Centro_Democrático_(España))), [*Felipe
-González*](https://es.wikipedia.org/wiki/Felipe_González) (por
-el [*Partido Socialista Obrero
-Español*](https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Español)), [*Santiago
-Carrillo*](https://es.wikipedia.org/wiki/Santiago_Carrillo) (por
-el [*Partido Comunista de
-España*](https://es.wikipedia.org/wiki/Partido_Comunista_de_España)), [*Enrique
-Tierno
-Galván*](https://es.wikipedia.org/wiki/Enrique_Tierno_Galván) (por
-el [*Partido Socialista
-Popular*](https://es.wikipedia.org/wiki/Partido_Socialista_Popular_(España))), [*Josep
-Maria
-Triginer*](https://es.wikipedia.org/wiki/Josep_Maria_Triginer) (por
-la [*Federación Catalana del
-PSOE*](https://es.wikipedia.org/wiki/Federación_Catalana_del_PSOE)), [*Joan
-Reventós*](https://es.wikipedia.org/wiki/Joan_Reventós) (por [*Convergencia
-Socialista de
-Cataluña*](https://es.wikipedia.org/wiki/Convergencia_Socialista_de_Cataluña)), [*Juan
-Ajuriaguerra*](https://es.wikipedia.org/wiki/Juan_Ajuriaguerra) (por
-el [*Partido Nacionalista
-Vasco*](https://es.wikipedia.org/wiki/Partido_Nacionalista_Vasco))
-y [*Miquel
-Roca*](https://es.wikipedia.org/wiki/Miquel_Roca) (por [*Convergència i
-Unió*](https://es.wikipedia.org/wiki/Convergència_i_Unió)). [*Manuel
-Fraga*](https://es.wikipedia.org/wiki/Manuel_Fraga) (por [*Alianza
-Popular*](https://es.wikipedia.org/wiki/Alianza_Popular)) no suscribió
-el acuerdo político, pero sí el económico.
+Los firmantes fueron finalmente Adolfo Suárez en nombre del
+gobierno, Leopoldo Calvo-Sotelo (por UCD), Felipe González (por
+el Partido Socialista Obrero Español), Santiago Carrillo (por el Partido
+Comunista de España), Enrique Tierno Galván (por el Partido Socialista
+Popular), Josep Maria Triginer (por la Federación Catalana del
+PSOE), Joan Reventós (por Convergencia Socialista de Cataluña), Juan
+Ajuriaguerra (por el Partido Nacionalista Vasco) y Miquel
+Roca (por Convergència i Unió). Manuel Fraga (por Alianza Popular) no
+suscribió el acuerdo político, pero sí el económico.
 
-Los acuerdos fueron ratificados posteriormente en
-el [*Congreso*](https://es.wikipedia.org/wiki/Congreso_de_los_Diputados_de_España) y
-el [*Senado*](https://es.wikipedia.org/wiki/Senado_de_España).
+Los acuerdos fueron ratificados posteriormente en el Congreso y
+el Senado.
 
-IV. VISLUMBRAMIENTO DEL AÑO 1978
-================================
+# IV. VISLUMBRAMIENTO DEL AÑO 1978
 
-IV.1. El caso Scala
--------------------
+## IV.1. El caso Scala
 
- **Caso Scala** fue el proceso judicial desatado a raíz de un incendio
-provocado en la sala de
-fiestas *Scala* de [**Barcelona**](https://es.wikipedia.org/wiki/Barcelona) el [**15
-de
-enero**](https://es.wikipedia.org/wiki/15_de_enero) de [**1978**](https://es.wikipedia.org/wiki/1978) que
-resultó con la muerte de cuatro personas y en el que se intentó inculpar
-a las organizaciones
-[**anarquistas**](https://es.wikipedia.org/wiki/Anarquismo)**
-**[**CNT**](https://es.wikipedia.org/wiki/Confederación_Nacional_del_Trabajo)**
-**y
-[**FAI**](https://es.wikipedia.org/wiki/Federación_Anarquista_Ibérica).
+ Caso Scala fue el proceso judicial desatado a raíz de un incendio
+provocado en la sala de fiestas Scala de Barcelona el 15 de
+enero de 1978 que resultó con la muerte de cuatro personas y en el que
+se intentó inculpar a las organizaciones anarquistas CNT y FAI.
 
 ### Los hechos
 
-Durante la mañana del domingo [**15 de
-enero**](https://es.wikipedia.org/wiki/15_de_enero)** **de
-[**1978**](https://es.wikipedia.org/wiki/1978)** **se celebró en
-Barcelona una
-[**manifestación**](https://es.wikipedia.org/wiki/Manifestación)**
-**autorizada convocada por la CNT a la que asistieron unas 15.000
-personas. Los cenetistas se oponían a los [**Pactos de la
-Moncloa**](https://es.wikipedia.org/wiki/Pactos_de_la_Moncloa)** a**l
-considerarlos un pacto social entre las fuerzas políticas y los
-sindicatos más representativos, que perjudicaban a la clase trabajadora.
-Acabada la manifestación, hacia las 13:15 horas de la tarde, un grupo de
-jóvenes lanzaron diversos cócteles molotov contra la fachada de piedra
-de la sala de fiestas Scala Barcelona. Según la policía este acto
-provocaría el incendio y posterior derrumbamiento de todo el edificio,
-causando la muerte de cuatro trabajadores --Ramón Egea, Juan López,
-Diego Montoro y Bernabé Bravo--, paradójicamente afiliados a la CNT, que
-se encontraban en el local en aquellos momentos.
+Durante la mañana del domingo 15 de enero de 1978 se celebró en
+Barcelona una manifestación autorizada convocada por la CNT a la que
+asistieron unas 15.000 personas. Los cenetistas se oponían a los Pactos
+de la Moncloa al considerarlos un pacto social entre las fuerzas
+políticas y los sindicatos más representativos, que perjudicaban a la
+clase trabajadora. Acabada la manifestación, hacia las 13:15 horas de la
+tarde, un grupo de jóvenes lanzaron diversos cócteles molotov contra la
+fachada de piedra de la sala de fiestas Scala Barcelona. Según la
+policía este acto provocaría el incendio y posterior derrumbamiento de
+todo el edificio, causando la muerte de cuatro trabajadores --Ramón
+Egea, Juan López, Diego Montoro y Bernabé Bravo--, paradójicamente
+afiliados a la CNT, que se encontraban en el local en aquellos momentos.
 
 Los medios especularon sobre la autoría del ataque, achacándolo unos a
 asesinos comunes, otros a asuntos relacionados con la sala de fiestas e
 incluso se establecieron relaciones con una campaña a favor de la
-libertad de expresión en apoyo de [**Albert
-Boadella**](https://es.wikipedia.org/wiki/Albert_Boadella). Finalmente
-el martes [**17**](https://es.wikipedia.org/wiki/17_de_enero), un
-comunicado de la
-[**Policía**](https://es.wikipedia.org/wiki/Cuerpo_Nacional_de_Policía_(España))**
-**informó de la detención de los autores del atentado, quienes fueron
-relacionados con el sindicato
-anarquista [**CNT**](https://es.wikipedia.org/wiki/Confederación_Nacional_del_Trabajo).
+libertad de expresión en apoyo de Albert Boadella. Finalmente el martes
+17, un comunicado de la Policía informó de la detención de los autores
+del atentado, quienes fueron relacionados con el sindicato
+anarquista CNT.
 
 Un comando de la FAI (Federación Anarquista Ibérica), integrado por tres
 sujetos en cuyo poder se ha hallado asimismo documentación que les
@@ -599,63 +425,46 @@ la Jefatura de Policía de Barcelona, del atentado contra el
 restaurante-espectáculo Scala.
 
 El periódico de la CNT francesa de la época (las páginas en francés del
-\"[**Espoir**](https://es.wikipedia.org/w/index.php?title=Espoir_(publicación)&action=edit&redlink=1)\"),
-publicó en [**Toulouse**](https://es.wikipedia.org/wiki/Toulouse)** **la
-implicación de colaboradores de la policía como autores, infiltrados en
-la CNT justo antes del hecho. ​
+\"Espoir\"), publicó en Toulouse la implicación de colaboradores de la
+policía como autores, infiltrados en la CNT justo antes del hecho. 
 
 Se cree que materiales incendiarios fueron colocados en el inmueble
-antes de la manifestación^\]\ ^ya que es imposible que unos simples
+antes de la manifestación\] ya que es imposible que unos simples
 cócteles molotov lanzados contra una fachada de piedra puedan destruir
 todo el batimento salvo, paradójicamente, la fachada.
 
 ### Proceso judicial
 
-La
-v[**ista**](https://es.wikipedia.org/w/index.php?title=Vista_(Derecho)&action=edit&redlink=1)**
-**del Caso Scala tuvo lugar en diciembre de 1980. Los abogados
+La vista del Caso Scala tuvo lugar en diciembre de 1980. Los abogados
 defensores (Loperena, Palmés, Krauel y Seguí) solicitaron que el
-ministro de gobernación, [**Rodolfo Martín
-Villa**](https://es.wikipedia.org/wiki/Rodolfo_Martín_Villa)**
-**compareciese a declarar, pero no lo hizo. La posición de la defensa
-apuntaba hacia un [**montaje
-policial**](https://es.wikipedia.org/wiki/Montaje_policial)**
-**orquestado mediante
-[**confidentes**](https://es.wikipedia.org/w/index.php?title=Confidente_policial&action=edit&redlink=1)**
-**[**infiltrados**](https://es.wikipedia.org/wiki/Infiltración)** **en
-el sindicato CNT con el objetivo de desacreditar tal sindicato ante los
-trabajadores y evitar así su progresión en
-[**Cataluña**](https://es.wikipedia.org/wiki/Cataluña). La sentencia
-condenó a José Cuevas, Xavier Cañadas y Arturo Palma a 17 años de
-prisión como autores de un delito de homicidio involuntario y por
-fabricación de explosivos; Luis Muñoz fue condenado a dos años y seis
-meses por complicidad, y Rosa López, a 5 meses por encubrimiento. El
-[**recurso**](https://es.wikipedia.org/w/index.php?title=Recurso_(Derecho)&action=edit&redlink=1)**
-**presentado por los abogados defensores fue desestimado por el
-[**Tribunal
-Supremo**](https://es.wikipedia.org/wiki/Tribunal_Supremo_de_España).
+ministro de gobernación, Rodolfo Martín Villa compareciese a declarar,
+pero no lo hizo. La posición de la defensa apuntaba hacia un montaje
+policial orquestado mediante confidentes infiltrados en el sindicato CNT
+con el objetivo de desacreditar tal sindicato ante los trabajadores y
+evitar así su progresión en Cataluña. La sentencia condenó a José
+Cuevas, Xavier Cañadas y Arturo Palma a 17 años de prisión como autores
+de un delito de homicidio involuntario y por fabricación de explosivos;
+Luis Muñoz fue condenado a dos años y seis meses por complicidad, y Rosa
+López, a 5 meses por encubrimiento. El recurso presentado por los
+abogados defensores fue desestimado por el Tribunal Supremo.
 
 Con el paso de los años se fue descubriendo el papel decisivo que
-desempeñó el [**confidente de la
-policía**](https://es.wikipedia.org/wiki/Agente_encubierto)** **Joaquín
-Gambín, el *Grillo*, también conocido como el *Rubio *o el *Legionario*,
-en este asunto. Fue él quien se infiltró en la CNT para dirigir el
-atentado. La presión de la prensa sobre la policía y la ausencia de
-Gambín en la vista del caso hicieron levantar sospechas sobre las
-verdaderas causas del atentado, provocando incluso desavenencias entre
-el Ministerio Fiscal y algunos miembros de la judicatura. Finalmente, a
-finales de 1981, Gambín fue detenido por la policía tras un tiroteo en
-[**Valencia**](https://es.wikipedia.org/wiki/Valencia). El Caso Scala
-volvía a abrirse.
+desempeñó el confidente de la policía Joaquín Gambín, el Grillo, también
+conocido como el Rubio o el Legionario, en este asunto. Fue él quien se
+infiltró en la CNT para dirigir el atentado. La presión de la prensa
+sobre la policía y la ausencia de Gambín en la vista del caso hicieron
+levantar sospechas sobre las verdaderas causas del atentado, provocando
+incluso desavenencias entre el Ministerio Fiscal y algunos miembros de
+la judicatura. Finalmente, a finales de 1981, Gambín fue detenido por la
+policía tras un tiroteo en Valencia. El Caso Scala volvía a abrirse.
 
 La segunda vista del Caso Scala Barcelona, en diciembre de 1983, solo
 tuvo un acusado: Joaquín Gambín. La sentencia lo condenó a 7 años de
 prisión por acudir a la manifestación con armas y por preparación de
 explosivos. La CNT ha presentado siempre este asunto como una maniobra
 oscura del gobierno dirigida a frenar el ascenso del sindicato
-[**anarquista**](https://es.wikipedia.org/wiki/Anarquismo), que se
-resintió[*^*1*^*](https://es.wikipedia.org/wiki/Caso_Scala#cite_note-youtube_1-1)​
-indudablemente de la repercusión social que tuvo el Caso Scala.
+anarquista, que se resintió1 indudablemente de la repercusión social
+que tuvo el Caso Scala.
 
 Resultaba evidente que la policía no buscaba nada ni a nadie ---ya
 tenían a los culpables--- se trataba simplemente de amedrentar a los
@@ -677,8 +486,7 @@ policía y los grupos de la ultraderecha lo hicieron peligroso
 
 Revista Polémica: El Caso Scala. Un proceso contra el anarcosindicalismo
 
-IV.2. Juicio de la CNT sobre el paro y los expedientes de crisis
-----------------------------------------------------------------
+## IV.2. Juicio de la CNT sobre el paro y los expedientes de crisis
 
 Ante una situación de crisis económica y desempleo masivo como la de los
 años 1975 - 1980, la CNT repudió la sociedad capitalista por engendrar
@@ -715,11 +523,9 @@ fueron las siguientes^[^4]^:
 -   Ocupación de fincas de terratenientes sin explotar para trabajarlas
     comunitariamente
 
-V.DIVISAR EL AÑO 1979
-=====================
+# V.DIVISAR EL AÑO 1979
 
-V.I. La CNT y las elecciones sindicales
----------------------------------------
+## V.I. La CNT y las elecciones sindicales
 
 > La CNT refutó las elecciones sindicales por ser perversas para los
 > trabajadores, ya que anulan la libertad sindical allá donde se
@@ -732,8 +538,7 @@ V.I. La CNT y las elecciones sindicales
 > trabajadores en el seno de las empresas y permitiendo la negociación
 > por separado
 
-V.II. Luchas internas en la CNT
--------------------------------
+## V.II. Luchas internas en la CNT
 
 ** En** 1979 la CNT estaba aminorada. Había dos tendencias enconadas,
 tal como nos lo dice el escrito de la revista CNT de junio de 1979
@@ -781,11 +586,9 @@ dejarles la más
 
 mínima defensa
 
-Apéndice 1. **Qué es la CNT y su alternativa** **Sindical Unitaria**
-====================================================================
+# Apéndice 1. **Qué es la CNT y su alternativa** **Sindical Unitaria**
 
-Qué es la C.N.T?
-----------------
+## Qué es la C.N.T?
 
 La confederación Nacional del trabajo, creada en 1910, es una
 organización de trabajadores, llevada por ellos mismos, y que lucha por
@@ -925,8 +728,7 @@ alcanza éste.
 La utopía puede ser difícil de alcanzar, pero no imposible cuando es
 justa y necesaria, y se lucha por alcanzarla.
 
-LA C.N.T. Y LA ALTERNATIVA SINDICAL UNITARIA
---------------------------------------------
+## LA C.N.T. Y LA ALTERNATIVA SINDICAL UNITARIA
 
 Apuntes preliminares
 
@@ -946,8 +748,7 @@ Apuntes preliminares
     de la unidad artificial e impuesta en manos de una burocracia
     estatal.
 
-La "alternativa sindical unitaria"
-----------------------------------
+## La "alternativa sindical unitaria"
 
 La propuesta de la estructura sindical unitaria se descompone en dos
 partes que según nosotros, no tienen porque estar relacionados y en esta
@@ -1003,8 +804,7 @@ sindical unitaria:
     relación con el movimiento obrero". Esto es la naturaleza exacta de
     la lucha por la mancipación.
 
-Resumiendo
-----------
+## Resumiendo
 
 Valorando esta alternativa sindical presentada por la Coordinadora
 Unitaria, nosotros cenetistas reafirmamos:
@@ -1033,8 +833,7 @@ propuesta.
 
 Ateneu Enciclopedic Popular, referencia 10567
 
-*Apéndice 2. ***Parecer libertario de los presos**
-==================================================
+# *Apéndice 2. ***Parecer libertario de los presos**
 
 Cuando recibáis este comunicado nuestra situación lo será y es de lo más
 inhumano posible. No somos atendidos como personas. Estamos 71 en celdas
@@ -1202,8 +1001,7 @@ querella contra la situación en que se encuentran actualmente.*
 
 CNT, Nº 4 1977
 
-*Apéndice 3. ***Opinión libertaria sobre los pactos de la Moncloa**
-===================================================================
+# *Apéndice 3. ***Opinión libertaria sobre los pactos de la Moncloa**
 
 Todos hubiéramos agradecido a este proyecto de oposición que ronda por
 el país el que hubiera informado al respetable: "Miren, el gobierno va a
@@ -1275,8 +1073,7 @@ capitalista) dar un impulso a la economía con más consumo popular y con
 más inversiones públicas, pero resulta más fácil adoptar esa salida que
 se ha tomado.
 
-LA DOMINACIÓN DEL CAPITAL
--------------------------
+## LA DOMINACIÓN DEL CAPITAL
 
 La dominación del capital se ejerce a través de una mezcla de coerción y
 consenso. No todo en el capitalismo fascista es coerción ni todo es
@@ -1321,8 +1118,7 @@ argumentar que estos representantes fueron elegidos con otros programas
 (aunque ése sea realmente el caso) porque las elecciones no fueron los
 delegados revocables cuya obligación sea mantener su programa.
 
-LA BALANZA DE PAGOS
--------------------
+## LA BALANZA DE PAGOS
 
 No quedaría completo el panorama si no incluimos, entre los argumentos
 que se dan en favor de la *moderación *salarial, la defensa de la
@@ -1355,8 +1151,7 @@ alegría cuando los extranjeros ven empeorar su relación de intercambio,
 tanto si esos extranjeros son más ricos como si son más pobres que los
 obreros españoles.
 
-LA LUCHA SINDICAL
------------------
+## LA LUCHA SINDICAL
 
 Pero aunque denunciamos el Pacto de la Moncloa, las luchas sindicales en
 1978 van a tener que llevarse teniendo en cuenta las disposiciones del
@@ -1396,8 +1191,7 @@ sesenta mil pesetas no tengan ningún aumento, pues esto ya les alcanza
 seguramente para vivir. Esta cuestión de la *distribución *del aumento
 de la masa salarial total es, tal vez, la más importante que se plantea.
 
-POR LA IGUALDAD DE SALARIOS
----------------------------
+## POR LA IGUALDAD DE SALARIOS
 
 En un país como España y en casi todos los demás es un hecho bastante
 evidente que, en general, cuanto más duro y pesado es el trabajo, menos
@@ -1437,8 +1231,7 @@ que ocurre en los países llamados *socialistas *es que los burócratas
 según su trabajo)* son también quienes ganan más, trabajando menos, y no
 faltan por tanto vocaciones de burócrata.
 
-OTRAS CUESTIONES PARA LA LUCHA SINDICAL
----------------------------------------
+## OTRAS CUESTIONES PARA LA LUCHA SINDICAL
 
 Es importante obligar a las empresas a que en el cálculo de la masa
 salarial (incluidos IRPF y Seguridad Social) para 1977 (que sirve de
@@ -1569,8 +1362,7 @@ las rebajas pactadas por los políticos en el Pacto de la Moncloa pueden
 ser muy bien una ley que no se cumpla, esta vez es beneficio de los
 obreros.
 
-NO HABLEMOS DE LA ECONOMÍA
---------------------------
+## NO HABLEMOS DE LA ECONOMÍA
 
 Finalmente, es necesario decir lo más importante. No hemos movido dentro
 del marco señalado por los economistas. Hemos hablado de maneras de
@@ -1595,8 +1387,7 @@ poder político que lo acompañan.
 
 Ajoblanco, nº 30, 1978
 
-*Apéndice 4. *Acuerdos elaborados en el Pleno Nacional de Regionales Celebrado en noviembre de 1978
-===================================================================================================
+# *Apéndice 4. *Acuerdos elaborados en el Pleno Nacional de Regionales Celebrado en noviembre de 1978
 
 Dictamen sobre estrategia Sindical. Contra la ley antiterrorismo
 
@@ -2022,8 +1813,7 @@ a desviarlos de sus verdaderos objetivos.
 
 Fundación Anselmo Lorenzo, 2/37 FCN
 
-*Apéndice 5. ***Reflexiones para una estrategia del anarcosindicalismo**
-========================================================================
+# *Apéndice 5. ***Reflexiones para una estrategia del anarcosindicalismo**
 
 Neutralizada la "izquierda" en el Parlamento, tras las elecciones del 15
 de junio,
@@ -2054,8 +1844,7 @@ colectiva (convenio), para el que la CNT debe elaborar una estrategia de
 carácter nacional, aunque en cada caso concreto su aplicación dependerá
 de la correlación de fuerzas existentes.
 
-ALTERNATIVAS TRAS LOS ÚLTIMOS CONFLICTOS
-----------------------------------------
+## ALTERNATIVAS TRAS LOS ÚLTIMOS CONFLICTOS
 
 De las últimas luchas en las que hemos participados a nivel de todo el
 país se dependen unas líneas generales de intervención que concretamos
@@ -2100,8 +1889,7 @@ en:
     estabilidad del capital (por ejemplo la lucha por la supresión de
     las horas extras y contra el aumento de ritmos).
 
-LOS CONVENIOS COMO FORMA DE LUCHA
----------------------------------
+## LOS CONVENIOS COMO FORMA DE LUCHA
 
 Durante la lucha de los convenios es importante poner a prueba las
 estructuras del sindicato como órganos de lucha, porque esto nos va a
@@ -2152,8 +1940,7 @@ posibilitarán la revolución social.
 
 CNT nº 1, Julio 1978
 
-*Apéndice 6. ***La CNT y el movimiento libertario**
-===================================================
+# *Apéndice 6. ***La CNT y el movimiento libertario**
 
 Las Jornadas Literarias pusieron en evidencia que si bien existía un
 eufórico resurgir de la ideología libertaria, lo que no se había dado
@@ -2415,8 +2202,7 @@ movimientos magistrales puede ser el medio más eficaz.
 
 Ajoblanco, número 29, 1978
 
-*Apéndice 7. ***Postura de la CNT frente al estatuto de los trabajadores**
-==========================================================================
+# *Apéndice 7. ***Postura de la CNT frente al estatuto de los trabajadores**
 
 El estatuto del trabajador es la consecuencia irremediablemente lógica
 del proceso político-social que arranca del 15 de Junio de 1977
@@ -2456,8 +2242,7 @@ categoría, de la calaña diríamos nosotros, del Estatuto de los
 Trabajadores, del XXXXX económica del Gobierno, y de otros por el estilo
 que no enumeramos.
 
-SINOPSIS DEL ESTATUTO.-
------------------------
+## SINOPSIS DEL ESTATUTO.-
 
 Nuestro RECHAZO al Estatuto de los Trabajadores viene dado en XXXXción
 de la mordaza que representa para el Movimiento obrero todo lo que
@@ -2535,8 +2320,7 @@ imperial, a un precio verdaderamente inhumano, injusto y más para
 aquellos, los trabajadores, que no percibirán NUNCA beneficio alguno de
 las reestructuraciones económicas del Capital.
 
-ALTERNATIVA C.N.T.-
--------------------
+## ALTERNATIVA C.N.T.-
 
 Nuestra postura, pues, con relación a lo expuesto anteriormente es la
 siguiente: que las relaciones laborales no tienen que estar bajo la
@@ -2577,8 +2361,7 @@ XXXXXX HE AHÍ LA POSTURA DE LA C.N.T., CONTRA EL INTENTO DE ESTABLECER
 
 Ateneu Enciclopedic Popular, referencia 006378
 
-*Apéndice 8. ***La CNT ante las elecciones Sindicales**
-=======================================================
+# *Apéndice 8. ***La CNT ante las elecciones Sindicales**
 
 La liquidación de la fascista CNS y la conquista de la libertad sindical
 por los trabajadores colocan el gobierno Suárez y la burguesía ante la
@@ -2735,8 +2518,7 @@ BOICOT A LAS ELECCIONES SINDICALES
 
 C.N.T./A.I.T.
 
-*Apéndice 9. ***Parecer de la CNT sobre el anarquismo, anarcosindicalismo y sindicalismo revolucionario**
-=========================================================================================================
+# *Apéndice 9. ***Parecer de la CNT sobre el anarquismo, anarcosindicalismo y sindicalismo revolucionario**
 
 Las líneas que siguen tienen por objeto aportar elementos de juicio que
 ayuden a muchos compañeros a clarificar sus ideas en relación a ciertos

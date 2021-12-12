@@ -15,6 +15,7 @@ fontfamily: times
 colorlinks: true
 linkcolor: darkgray
 subparagraph: yes # workaround https://stackoverflow.com/questions/42916124/not-able-to-use-titlesec-with-markdown-and-pandoc
+numbersections: true
 geometry:
 # Documented: http://ctan.math.utah.edu/ctan/tex-archive/macros/latex/contrib/geometry/geometry.pdf
 #- showframe # show geometry lines

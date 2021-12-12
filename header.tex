@@ -1,5 +1,5 @@
 % https://tug.org/FontCatalogue/seriffonts.html > fuentes soportadas por latex
-%\renewcommand*{\familydefault}{\sfdefault}
+\renewcommand*{\familydefault}{\sfdefault}
 \usepackage{pdfpages} % for the cover
 \usepackage{sectsty}
 \usepackage{wrapfig} % float figures
@@ -89,36 +89,40 @@
 }
 
 % section formating for categories % https://www.overleaf.com/learn/latex/Font_sizes,_families,_and_styles
-\makeatletter
-\let\oldsection\section
-\renewcommand{\section}{%
-\@ifstar\oldsection\customsection%
-}
-\newcommand{\customsection}[1]{%
-% forces new page
-\cleartorightpage%
-% removes page in footers
-\thispagestyle{empty}%
-% verticall filler above
-\vspace*{\fill}%
-\oldsection{#1}%
-% double vertical filler below (places title in 1/3)
-\vspace*{\fill}%
-\vspace*{\fill}%
-% force page
-\cleartorightpage%
-}
-\sectionfont{\centering\normalfont\LARGE\itshape}
-\let\oldsubsection\subsection
-\renewcommand{\subsection}[1]{
-    \clearpage
-    \oldsubsection{#1}
-    \vspace*{3mm}
-}
-\subsectionfont{\normalfont\Large\itshape}
-\let\oldsubsubsection\subsubsection
-\renewcommand{\subsubsection}{\clearpage\oldsubsubsection}
-\makeatother
+%\let\oldsection\section
+%\let\oldsubsection\subsection
+%\let\oldsubsubsection\subsubsection
+
+%\makeatletter
+%\renewcommand{\section}{%
+%\@ifstar\oldsection\customsection%
+%}
+%\renewcommand{\subsection}{%
+%\@ifstar\oldsubsection\customsubsection%
+%}
+%\makeatother
+%\newcommand{\customsection}[1]{%
+%% forces new page
+%\cleartorightpage%
+%% removes page in footers
+%\thispagestyle{empty}%
+%% verticall filler above
+%\vspace*{\fill}%
+%\oldsection{#1}%
+%% double vertical filler below (places title in 1/3)
+%\vspace*{\fill}%
+%\vspace*{\fill}%
+%% force page
+%\cleartorightpage%
+%}
+%\newcommand{\customsubsection}[1]{%
+%    \oldsubsection{#1}
+%    \vspace*{3mm}
+%}
+%\renewcommand{\subsubsection}{\clearpage\oldsubsubsection}
+
+\sectionfont{\clearpage\centering\color{Mahogany}\normalfont\LARGE\itshape}
+\subsectionfont{\color{BlueViolet}\large}
 
 % do not hyphenate
 \hyphenpenalty=50000

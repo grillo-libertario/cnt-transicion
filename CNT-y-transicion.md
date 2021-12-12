@@ -2482,7 +2482,7 @@ verdadero contenido doctrinal. En ello radica todo el embrollo en que
 nos han metido algunos de los "nuevos anarquistas" y los falsos
 anarcosindicalistas.
 
-Anarquismo
+## Anarquismo
 
 Se puede afirmar, con una cierta exageración, que anarquismos hay tantos
 como individuos partidarios de estas ideas políticas o ideológicas, pues
@@ -2512,7 +2512,7 @@ cambios que se están operando en nuestras sociedades tecnocráticas,
 convirtiéndose, a pesar de sus grandes valores intrínsecos, en una
 corriente ideológica testimonia lista y en algunos casos, regresiva.
 
-Anarco-sindicalismo
+## Anarco-sindicalismo
 
 Mención a parte merece esa corriente del pensamiento anarquista llamada
 alguna vez anarquismo obrero y que finalmente asumió la denominación de
@@ -2598,7 +2598,7 @@ progenitores, de los adultos; el anarquismo debe servir para algo más
 que para facilitar el destete permanente de todas las juventudes que se
 afirman negando cuanto les rodea.
 
-Sindicalismo revolucionario
+## Sindicalismo revolucionario
 
 Y llegamos al nacimiento del sindicato revolucionario que si bien su
 formulación teórica aparece en Francia en 1906 con la Carta de Amiens,

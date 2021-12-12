@@ -49,7 +49,8 @@ Apéndice 9. Parecer de la CNT sobre anarquismo, anarcosindicalismo y
 
 Sindicalismo revolucionario
 
-PRESENTACIÓN
+ PRESENTACIÓN
+============
 
 Este escrito intenta abrir un camino que sirva para reflexionar y
 analizar la amplitud del movimiento libertario durante la transición.
@@ -206,7 +207,8 @@ primeros años de la década de los 80), la inmensa mayoría fruto de
 atentados terroristas, destacando la banda armada ETA, que fue
 directamente responsable de más de la mitad de las muertes. ​
 
-I.  OJEADA AL AÑO 1976
+Ojeada al año 1976
+==================
 
 La CNT se opuso a la transición porque quien la llevaba a término era la
 burguesía, y su objetivo era continuar explotando a los trabajadores.
@@ -289,9 +291,11 @@ intentado la negociación vertical y un pequeño grupo de trabajadores,
 coordinado por Cipriano Damiano, que colaboraba con otras organizaciones
 no libertarias^[^1]^.
 
-III\. VISTAZO AL AÑO 1977
+III. Vistazo al año 1977
+========================
 
 III.1. Qué es la CNT y lo que quiere
+------------------------------------
 
 En el año 1977 la CNT lanza un impreso^[^2]\ ^en el que se define como
 un sindicato revolucionario y autogestionario que practica la democracia
@@ -308,6 +312,7 @@ Aboga por la asamblea de fábrica, la pluralidad sindical, la unidad de
 acción en la base y el abandono de la CNS (Sindicato Vertical).
 
 III.2. Coordinadora de presos en lucha
+--------------------------------------
 
 La COPEL se constituye a finales de 1976 por un grupo de presos de
 Carabanchel para luchar por los derechos y la mejora de las condiciones
@@ -342,6 +347,7 @@ Las reivindicaciones de la COPEL son las siguientes:
     por igual
 
 III.3. Los pactos de la Moncloa
+-------------------------------
 
 Los **Pactos de la Moncloa** (formalmente fueron dos,
 denominados **Acuerdo sobre el programa de saneamiento y reforma de la
@@ -381,8 +387,7 @@ alcanzaba el 26,39%.
 ![](Pictures/100002F8000002E500000295528803193B45C417.wmf){width="0.724cm"
 height="0.636cm"}
 
-La coyuntura económica
-----------------------
+### La coyuntura económica
 
 La [*coyuntura*](https://es.wikipedia.org/wiki/Coyuntura) económica era
 grave después de que la [*crisis del petróleo de
@@ -410,8 +415,7 @@ sociales, los [*sindicatos*](https://es.wikipedia.org/wiki/Sindicato) de
 clase, que exhibían una retórica reivindicativa que, según como fuera
 entendida, a veces era tomada por revolucionaria.
 
-Conversaciones previas
-----------------------
+### Conversaciones previas
 
 Con anterioridad, Adolfo Suárez había sostenido conversaciones
 con [*Felipe
@@ -448,8 +452,7 @@ firmaron el acuerdo, junto a la Patronal y otras fuerzas políticas
 españolas, siendo la anarcosindical CNT quien mostró su total rechazo a
 los Pactos.
 
-Los acuerdos
-------------
+### Los acuerdos
 
 En el **terreno político** se acordó modificar las restricciones de
 la [*libertad de
@@ -539,9 +542,11 @@ Los acuerdos fueron ratificados posteriormente en
 el [*Congreso*](https://es.wikipedia.org/wiki/Congreso_de_los_Diputados_de_España) y
 el [*Senado*](https://es.wikipedia.org/wiki/Senado_de_España).
 
-IV\. VISLUMBRAMIENTO DEL AÑO 1978
+IV. VISLUMBRAMIENTO DEL AÑO 1978
+================================
 
 IV.1. El caso Scala
+-------------------
 
  **Caso Scala** fue el proceso judicial desatado a raíz de un incendio
 provocado en la sala de
@@ -555,8 +560,7 @@ a las organizaciones
 **y
 [**FAI**](https://es.wikipedia.org/wiki/Federación_Anarquista_Ibérica).
 
-Los hechos
-----------
+### Los hechos
 
 Durante la mañana del domingo [**15 de
 enero**](https://es.wikipedia.org/wiki/15_de_enero)** **de
@@ -605,8 +609,7 @@ antes de la manifestación^\]\ ^ya que es imposible que unos simples
 cócteles molotov lanzados contra una fachada de piedra puedan destruir
 todo el batimento salvo, paradójicamente, la fachada.
 
-Proceso judicial
-----------------
+### Proceso judicial
 
 La
 v[**ista**](https://es.wikipedia.org/w/index.php?title=Vista_(Derecho)&action=edit&redlink=1)**
@@ -675,6 +678,7 @@ policía y los grupos de la ultraderecha lo hicieron peligroso
 Revista Polémica: El Caso Scala. Un proceso contra el anarcosindicalismo
 
 IV.2. Juicio de la CNT sobre el paro y los expedientes de crisis
+----------------------------------------------------------------
 
 Ante una situación de crisis económica y desempleo masivo como la de los
 años 1975 - 1980, la CNT repudió la sociedad capitalista por engendrar
@@ -712,8 +716,10 @@ fueron las siguientes^[^4]^:
     comunitariamente
 
 V.DIVISAR EL AÑO 1979
+=====================
 
 V.I. La CNT y las elecciones sindicales
+---------------------------------------
 
 > La CNT refutó las elecciones sindicales por ser perversas para los
 > trabajadores, ya que anulan la libertad sindical allá donde se
@@ -727,6 +733,7 @@ V.I. La CNT y las elecciones sindicales
 > por separado
 
 V.II. Luchas internas en la CNT
+-------------------------------
 
 ** En** 1979 la CNT estaba aminorada. Había dos tendencias enconadas,
 tal como nos lo dice el escrito de la revista CNT de junio de 1979
@@ -774,11 +781,11 @@ dejarles la más
 
 mínima defensa
 
-Apéndice 1
-
-**Qué es la CNT y su alternativa** **Sindical Unitaria**
+Apéndice 1. **Qué es la CNT y su alternativa** **Sindical Unitaria**
+====================================================================
 
 Qué es la C.N.T?
+----------------
 
 La confederación Nacional del trabajo, creada en 1910, es una
 organización de trabajadores, llevada por ellos mismos, y que lucha por
@@ -919,6 +926,7 @@ La utopía puede ser difícil de alcanzar, pero no imposible cuando es
 justa y necesaria, y se lucha por alcanzarla.
 
 LA C.N.T. Y LA ALTERNATIVA SINDICAL UNITARIA
+--------------------------------------------
 
 Apuntes preliminares
 
@@ -939,6 +947,7 @@ Apuntes preliminares
     estatal.
 
 La "alternativa sindical unitaria"
+----------------------------------
 
 La propuesta de la estructura sindical unitaria se descompone en dos
 partes que según nosotros, no tienen porque estar relacionados y en esta
@@ -995,6 +1004,7 @@ sindical unitaria:
     la lucha por la mancipación.
 
 Resumiendo
+----------
 
 Valorando esta alternativa sindical presentada por la Coordinadora
 Unitaria, nosotros cenetistas reafirmamos:
@@ -1023,9 +1033,8 @@ propuesta.
 
 Ateneu Enciclopedic Popular, referencia 10567
 
-Apéndice 2
-
-Parecer libertario de los presos
+*Apéndice 2. ***Parecer libertario de los presos**
+==================================================
 
 Cuando recibáis este comunicado nuestra situación lo será y es de lo más
 inhumano posible. No somos atendidos como personas. Estamos 71 en celdas
@@ -1044,7 +1053,7 @@ Carabanchel, 26 de Febrero
 
 \*\*\*
 
-*QUE ES LA COPEL?* (Coordinadora de PresosEspañoles en Lucha)
+*QUE ES LA COPEL?* (Coordinadora de Presos Españoles en Lucha)
 
 *Un grupo de presos de Carabanchel, conscientes de la propia situación y
 de la problemática de las prisiones del Estado, así como la necesidad
@@ -1193,9 +1202,8 @@ querella contra la situación en que se encuentran actualmente.*
 
 CNT, Nº 4 1977
 
-Apéndice 3
-
-Opinión libertaria sobre los pactos de la Moncloa
+*Apéndice 3. ***Opinión libertaria sobre los pactos de la Moncloa**
+===================================================================
 
 Todos hubiéramos agradecido a este proyecto de oposición que ronda por
 el país el que hubiera informado al respetable: "Miren, el gobierno va a
@@ -1268,6 +1276,7 @@ más inversiones públicas, pero resulta más fácil adoptar esa salida que
 se ha tomado.
 
 LA DOMINACIÓN DEL CAPITAL
+-------------------------
 
 La dominación del capital se ejerce a través de una mezcla de coerción y
 consenso. No todo en el capitalismo fascista es coerción ni todo es
@@ -1313,6 +1322,7 @@ argumentar que estos representantes fueron elegidos con otros programas
 delegados revocables cuya obligación sea mantener su programa.
 
 LA BALANZA DE PAGOS
+-------------------
 
 No quedaría completo el panorama si no incluimos, entre los argumentos
 que se dan en favor de la *moderación *salarial, la defensa de la
@@ -1346,6 +1356,7 @@ tanto si esos extranjeros son más ricos como si son más pobres que los
 obreros españoles.
 
 LA LUCHA SINDICAL
+-----------------
 
 Pero aunque denunciamos el Pacto de la Moncloa, las luchas sindicales en
 1978 van a tener que llevarse teniendo en cuenta las disposiciones del
@@ -1386,6 +1397,7 @@ seguramente para vivir. Esta cuestión de la *distribución *del aumento
 de la masa salarial total es, tal vez, la más importante que se plantea.
 
 POR LA IGUALDAD DE SALARIOS
+---------------------------
 
 En un país como España y en casi todos los demás es un hecho bastante
 evidente que, en general, cuanto más duro y pesado es el trabajo, menos
@@ -1426,6 +1438,7 @@ según su trabajo)* son también quienes ganan más, trabajando menos, y no
 faltan por tanto vocaciones de burócrata.
 
 OTRAS CUESTIONES PARA LA LUCHA SINDICAL
+---------------------------------------
 
 Es importante obligar a las empresas a que en el cálculo de la masa
 salarial (incluidos IRPF y Seguridad Social) para 1977 (que sirve de
@@ -1557,6 +1570,7 @@ ser muy bien una ley que no se cumpla, esta vez es beneficio de los
 obreros.
 
 NO HABLEMOS DE LA ECONOMÍA
+--------------------------
 
 Finalmente, es necesario decir lo más importante. No hemos movido dentro
 del marco señalado por los economistas. Hemos hablado de maneras de
@@ -1581,11 +1595,8 @@ poder político que lo acompañan.
 
 Ajoblanco, nº 30, 1978
 
-Apéndice 4
-
-Acuerdos elaborados en el Pleno Nacional de Regionales
-
-Celebrado en noviembre de 1978
+*Apéndice 4. *Acuerdos elaborados en el Pleno Nacional de Regionales Celebrado en noviembre de 1978
+===================================================================================================
 
 Dictamen sobre estrategia Sindical. Contra la ley antiterrorismo
 
@@ -2011,9 +2022,8 @@ a desviarlos de sus verdaderos objetivos.
 
 Fundación Anselmo Lorenzo, 2/37 FCN
 
-Apéndice 5
-
-Reflexiones para una estrategia del anarcosindicalismo
+*Apéndice 5. ***Reflexiones para una estrategia del anarcosindicalismo**
+========================================================================
 
 Neutralizada la "izquierda" en el Parlamento, tras las elecciones del 15
 de junio,
@@ -2045,6 +2055,7 @@ carácter nacional, aunque en cada caso concreto su aplicación dependerá
 de la correlación de fuerzas existentes.
 
 ALTERNATIVAS TRAS LOS ÚLTIMOS CONFLICTOS
+----------------------------------------
 
 De las últimas luchas en las que hemos participados a nivel de todo el
 país se dependen unas líneas generales de intervención que concretamos
@@ -2090,6 +2101,7 @@ en:
     las horas extras y contra el aumento de ritmos).
 
 LOS CONVENIOS COMO FORMA DE LUCHA
+---------------------------------
 
 Durante la lucha de los convenios es importante poner a prueba las
 estructuras del sindicato como órganos de lucha, porque esto nos va a
@@ -2140,9 +2152,8 @@ posibilitarán la revolución social.
 
 CNT nº 1, Julio 1978
 
-Apéndice 6
-
-La CNT y el movimiento libertario
+*Apéndice 6. ***La CNT y el movimiento libertario**
+===================================================
 
 Las Jornadas Literarias pusieron en evidencia que si bien existía un
 eufórico resurgir de la ideología libertaria, lo que no se había dado
@@ -2404,9 +2415,8 @@ movimientos magistrales puede ser el medio más eficaz.
 
 Ajoblanco, número 29, 1978
 
-Apéndice 7
-
-Postura de la CNT frente al estatuto de los trabajadores
+*Apéndice 7. ***Postura de la CNT frente al estatuto de los trabajadores**
+==========================================================================
 
 El estatuto del trabajador es la consecuencia irremediablemente lógica
 del proceso político-social que arranca del 15 de Junio de 1977
@@ -2447,6 +2457,7 @@ Trabajadores, del XXXXX económica del Gobierno, y de otros por el estilo
 que no enumeramos.
 
 SINOPSIS DEL ESTATUTO.-
+-----------------------
 
 Nuestro RECHAZO al Estatuto de los Trabajadores viene dado en XXXXción
 de la mordaza que representa para el Movimiento obrero todo lo que
@@ -2525,6 +2536,7 @@ aquellos, los trabajadores, que no percibirán NUNCA beneficio alguno de
 las reestructuraciones económicas del Capital.
 
 ALTERNATIVA C.N.T.-
+-------------------
 
 Nuestra postura, pues, con relación a lo expuesto anteriormente es la
 siguiente: que las relaciones laborales no tienen que estar bajo la
@@ -2565,9 +2577,8 @@ XXXXXX HE AHÍ LA POSTURA DE LA C.N.T., CONTRA EL INTENTO DE ESTABLECER
 
 Ateneu Enciclopedic Popular, referencia 006378
 
-Apéndice 8
-
-La CNT ante las elecciones Sindicales
+*Apéndice 8. ***La CNT ante las elecciones Sindicales**
+=======================================================
 
 La liquidación de la fascista CNS y la conquista de la libertad sindical
 por los trabajadores colocan el gobierno Suárez y la burguesía ante la
@@ -2724,10 +2735,8 @@ BOICOT A LAS ELECCIONES SINDICALES
 
 C.N.T./A.I.T.
 
-Apéndice 9
-
-Parecer de la CNT sobre el anarquismo, anarcosindicalismo y sindicalismo
-revolucionario
+*Apéndice 9. ***Parecer de la CNT sobre el anarquismo, anarcosindicalismo y sindicalismo revolucionario**
+=========================================================================================================
 
 Las líneas que siguen tienen por objeto aportar elementos de juicio que
 ayuden a muchos compañeros a clarificar sus ideas en relación a ciertos

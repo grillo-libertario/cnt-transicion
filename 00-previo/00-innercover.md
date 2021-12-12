@@ -1,0 +1,10 @@
+\innercover{
+  La CNT en la transición
+}{
+  Joaquín Beltrán Dengra
+}{
+
+}{logo-elgrillolibertario}{
+  El Grillo Libertario
+}
+

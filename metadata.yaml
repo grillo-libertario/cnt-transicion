@@ -1,0 +1,32 @@
+---
+#title: Recetario
+subtitle: Raures 
+author: Rafa Gómez López
+copyright: 2021 Rafa Gómez López
+rights: © 2019 Rafa Gómez López, CC BY-SA
+
+babel-lang: catalan
+lang: ca-ES
+
+documentclass: article
+#classoption: twoside
+fontsize: 10pt
+fontfamily: times
+colorlinks: true
+linkcolor: darkgray
+subparagraph: yes # workaround https://stackoverflow.com/questions/42916124/not-able-to-use-titlesec-with-markdown-and-pandoc
+geometry:
+# Documented: http://ctan.math.utah.edu/ctan/tex-archive/macros/latex/contrib/geometry/geometry.pdf
+#- showframe # show geometry lines
+#- showcrop # cutting marks when layout is different than paper
+- twoside #doblecara
+- margin=12mm # margen para todo
+- footskip=1.7em 
+- bindingoffset=5mm # extra margin inner edge
+#- includefoot
+- paperwidth=13cm
+- paperheight=20cm
+
+include-before: []
+---
+

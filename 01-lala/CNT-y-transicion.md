@@ -1,1 +1,0 @@
-../CNT-y-transicion.md

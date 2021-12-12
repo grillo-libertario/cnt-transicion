@@ -12,17 +12,12 @@ sudo apt install pandoc texlive-latex-extra texlive-fonts-extra texlive-lang-spa
 ./buildme.sh
 ```
 
-# To retrieve the poems from the docx
+# To retrieve the chapters from the docx
 
 ```
-pandoc original.docx -o original.md
-./split_poems.sh original.md
+pandoc original.docx --atx-headers -o original.md
+./splitchapters.py original.md
 ```
-
-The script suposes some structure we found:
-
-- Every chapter is enclosed by `[]`
-- Every poem has a `------` before the title
 
 It will generate
 

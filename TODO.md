@@ -4,6 +4,9 @@
 	- Apendices
 - Cabecera par: titulo
 - Cabecera impar: capítulo
+- XXXX -> [...]
+- Centrar \*\*\*
+
 
 
 

@@ -104,7 +104,7 @@ dentro de la propia CNT; son los que se oponen y conspiran para que los
 principios del sindicalismo revolucionario no informen las estructuras y
 contenidos de nuestra CNT; son los partidarios del sindicalismo
 específico sin trabajadores; lo son también los que defienden un
-sindicato integral en que la CNT sea un cajón desastre en donde
+sindicato integral en que la CNT sea un cajón de sastre en donde
 transiten todos los pasotas del país; y los que pretenden una
 organización en donde asuman todos los problemas de todas las minorías
 "especiales", con muchas contradicciones y convertir la CNT en una casa

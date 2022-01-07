@@ -5,14 +5,11 @@ años 1975 - 1980, la CNT repudió la sociedad capitalista por engendrar
 paro:
 
 Entendemos que el paro es fruto del propio capitalismo. Que donde haya
-capitalismo
-
-habrá paro \[...\], entendemos que el paro no podrá resolverse dentro
+capitalismo habrá paro \[...\], entendemos que el paro no podrá resolverse dentro
 del marco de sociedad capitalista, y que el día que esta sociedad sea
-definitivamente suprimida y
-
+definitivamente suprimida y 
 sustituida por la sociedad libertaria, igualitaria el paro dejará de ser
-el fantasma con que el trabajador se enfrenta día a día^[^3]^
+el fantasma con que el trabajador se enfrenta día a día^[^3]^.
 
 Las soluciones que el sindicato anarcosindicalista dio a esta situación
 fueron las siguientes^[^4]^:

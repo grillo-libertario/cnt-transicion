@@ -75,7 +75,7 @@ entrada de España en la Comunidad Europea.
 Durante la transición tuvieron lugar varios centenares de muertes, tanto
 a manos de grupos armados de extrema izquierda, principalmente Euskadi
 Ta Askatasuna (ETA) y los Grupos de Resistencia Antifascista Primero de
-Octubre (GRAPO),5 como por ataques de grupos armados de extrema
+Octubre (GRAPO), 5 como por ataques de grupos armados de extrema
 derecha; otros perecieron a causa de la intervención de las fuerzas del
 orden público. Las investigaciones al respecto sitúan el número de
 víctimas mortales en un intervalo de 500 a 700 personas (entre 1975 y

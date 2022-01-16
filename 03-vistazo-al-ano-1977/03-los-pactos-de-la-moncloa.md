@@ -21,11 +21,11 @@ una política económica que contuviera la gran inflación que alcanzaba el
 ### La coyuntura económica
 
 La coyuntura económica era grave después de que la crisis del petróleo
-de 1973 alcanzara de lleno a España -a la que no había afectado tan
+de 1973 alcanzara de lleno a España ─a la que no había afectado tan
 rápidamente como a los países europeos considerados aliados
-de Israel por la OPEP-, el desempleo -que durante el franquismo quedaba
+de Israel por la OPEP─, el desempleo ─que durante el franquismo quedaba
 ocultado por la emigración a Europa, y que ahora en crisis no admitía,
-produciéndose en cambio el retorno de los emigrantes-,
+produciéndose en cambio el retorno de los emigrantes─,
 la inflación había superado la frontera del 26% a mediados del año
 1977, y se temía la posibilidad de alcanzar cifras de
 verdadera hiperinflación, como las que posteriormente sufrieron los

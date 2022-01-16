@@ -1,6 +1,28 @@
 \cleartoleftpage
 \thispagestyle{empty}
 
+\logoeditora{images/elgrillolibertario}
+
+**El Grillo Libertario** \
+Distribuidora anarquista \
+C/ Florida 40, local 2A  \
+08940 Cornellà de Llobregat  \
+Barcelona  \
+elgrillolibertario.org  \
+Tlf/Fax: 93 375 58 53  \
+
+**1a edició:** Febrer 2022 \
+**Disseny portada:** Nuei \
+**Maquetació:** David García Garzón i El Grillo Libertario  \
+Aquest llibre ha estat dissenyat i maquetat amb programari lliure \
+**Imprimeix:** Descontrol   \
+**Tirada:** 200 exemplars  \
+**Depòsit Legal:** ??????? \
+**ISBN:** ??????  \
+
+\vspace*{\fill}
+
+
 \footnotesize
 Aquesta obra està sota una [llicència de Creative Commons Reconeixement - CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/){rel="license}.
 A continuació es resumeixen els punts clau de la llicència,
@@ -28,27 +50,8 @@ hauràs de difondre les teves contribucions sota la mateixa llicència que l'ori
 
 \normalsize
 
-\vspace*{\fill}
 
 
-\logoeditora{images/elgrillolibertario}
-
-**El Grillo Libertario** \
-Distribuidora anarquista \
-C/ Florida 40, local 2A  \
-08940 Cornellà de Llobregat  \
-Barcelona  \
-elgrillolibertario.org  \
-Tlf/Fax: 93 375 58 53  \
-
-**1a edició:** ?????? \
-**Disseny portada:** Nuei \
-**Maquetació:** David García Garzón i El Grillo Libertario  \
-Aquest llibre ha estat dissenyat i maquetat amb programari lliure \
-**Imprimeix:** Descontrol   \
-**Tirada:** ??? exemplars  \
-**Depòsit Legal:** ??????? \
-**ISBN:** ??????  \
 
 
 

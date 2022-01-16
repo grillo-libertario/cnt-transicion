@@ -23,7 +23,7 @@ gestión de la sociedad a través de la colectividad reunida en asamblea
 > Basados en los puntos anteriormente expuestos y convencidos los
 > trabajadores que debemos luchar en los sindicatos libres e
 > independientes de los partidos, como único medio para alcanzar la
-> verdadera Revolución Social proponemos
+> verdadera Revolución Social proponemos:
 
 -   La solidaridad y respeto absoluto del hombre
 -   La participación directa en la actuación y en la lucha
@@ -43,10 +43,10 @@ revolucionaria de las conquistas reivindicativas de la clase obrera, en
 rebeldía contra los sistemas de explotación y opresión debe manifestarse
 permanentemente con una dinámica de lucha creciente cada vez más radical
 apoyándose siempre en la clase trabajadora, promoviendo su concurso y
-acción directa
+acción directa.
 
 Pero también hay que señalar que en la CNT habian grupos enconados como
-nos lo demuestra estos parágrafos de la revista CNT en mayo de 1976
+nos lo demuestra estos parágrafos de la revista CNT en mayo de 1976:
 
 > La pregunta que nos hacemos, los que de verdad hemos opuesto
 > resistencia al franquismo y hemos sufrido prisión y represalias, es si

@@ -8,5 +8,5 @@ que analizan la CNT durante la transición.
 
 El estudio se basa en el material encontrado en diversos archivos y
 hemerotecas. Y los apéndices constatan la amplitud del movimiento
-libertario
+libertario.
 

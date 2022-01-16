@@ -32,7 +32,6 @@ Las reivindicaciones de la COPEL son las siguientes:
 -   Poder tener redenciones de pena por trabajo para todos los presos
     por igual
 
-
 La COPEL se constituye a finales de 1976 por un grupo de presos de
 Carabanchel para luchar por los derechos y la mejora de las condiciones
 penitenciarias.

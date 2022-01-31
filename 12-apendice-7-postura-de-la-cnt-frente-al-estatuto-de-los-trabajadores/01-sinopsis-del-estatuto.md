@@ -1,6 +1,6 @@
 ## Sinopsis del estatuto
 
-Nuestro RECHAZO al Estatuto de los Trabajadores viene dado en XXXXción
+Nuestro RECHAZO al Estatuto de los Trabajadores viene dado en [...]ción
 de la mordaza que representa para el Movimiento obrero todo lo que
 significa que el coartar, ahogar, la acción directa y la libertad
 sindical, y ver mermar considerablemente las mejoras conseguidas hasta
@@ -50,7 +50,7 @@ femeninas.
 1.  Jornada de 43 horas semanales a pie de máquina, cuando muchos
     sectores profesionales tienen establecidas jornadas más reducidas.
 
-Se pagan *tres* Pagas Extra como mínimo a dos, Navidad y verano y ca XXX
+Se pagan *tres* Pagas Extra como mínimo a dos, Navidad y verano y ca [...]
 dose la paga de Beneficios, que en muchos Convenios se hallan
 reconocidas.
 
@@ -58,7 +58,7 @@ Se autoriza el pactar en Convenio Colectivo el carácter obligatorio de
 horas extras.
 
 1.  Se pretende limitar al máximo los derechos Sindicales. No se habla
-    en XXXX ni de Asambleas, ni tampoco de Secciones Sindicales.
+    en [...] ni de Asambleas, ni tampoco de Secciones Sindicales.
 
 1.  La Seguridad Social ha de correr "íntegramente a cargo del
     trabajador".

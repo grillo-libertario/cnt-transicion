@@ -23,7 +23,7 @@ adquisitivo del salario, y por encima de todo el PARO, (es acuciante
 problema del PARO), hace que la TRILATERAL con sus dos grandes y
 poderosos tentáculos: E.E.O.E. y U.C.D., se atrevan a IMPONER, con el
 consentimiento y participación de la U.G.T., tan insultante y canallesco
-Estatuto (Código XXXXX del trabajador).
+Estatuto (Código [...] del trabajador).
 
 Sin ligar a dudas que la clase obrera se resiente sobremanera las
 continuadas desmovilizaciones llevadas a cabo por los Sindicatos
@@ -35,6 +35,6 @@ Comités ejecutivos y burocráticos de dichas Centrales.
 Así, pues, no nos sorprende la poquísima capacidad de respuesta que pone
 el Movimiento obrero, manipulado, frente a los atropellos de la
 categoría, de la calaña diríamos nosotros, del Estatuto de los
-Trabajadores, del XXXXX económica del Gobierno, y de otros por el estilo
+Trabajadores, del [...] económica del Gobierno, y de otros por el estilo
 que no enumeramos.
 

@@ -122,7 +122,7 @@ Revista CNT, número 29, Septiembre 1979
 
 [^3]:  Fundación Anselmo Lorenzo, L68/T-4-2018
 
-[^4]:  Ibidem
+[^4]:  Ibídem
 
-[^5]:  Ponemos XXX porque el original es inintelegible
+[^5]: El texto original es inintelegible
 

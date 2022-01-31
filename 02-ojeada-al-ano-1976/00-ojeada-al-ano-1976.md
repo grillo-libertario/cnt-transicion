@@ -87,5 +87,5 @@ nos lo demuestra estos parágrafos de la revista CNT en mayo de 1976:
 Y es que dentro de la CNT estaban los cincopuntistas que habían
 intentado la negociación vertical y un pequeño grupo de trabajadores,
 coordinado por Cipriano Damiano, que colaboraba con otras organizaciones
-no libertarias^[^1]^.
+no libertarias[^1].
 

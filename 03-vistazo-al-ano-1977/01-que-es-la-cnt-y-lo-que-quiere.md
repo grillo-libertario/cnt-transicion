@@ -1,6 +1,6 @@
 ## Qué es la CNT y lo que quiere
 
-En el año 1977 la CNT lanza un impreso^[^2]\ ^en el que se define como
+En el año 1977 la CNT lanza un impreso[^2] en el que se define como
 un sindicato revolucionario y autogestionario que practica la democracia
 directa, la acción directa, el apoyo mutuo y la solidaridad; y propugna
 la asamblea de fábrica como órgano soberano de decisión de todos los

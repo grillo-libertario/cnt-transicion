@@ -5,7 +5,7 @@ del proceso político-social que arranca del 15 de Junio de 1977
 (elecciones generales), el cual se materializa en los Pactos de la
 Moncloa, Constitución, municipales, referéndums, "autonómicos", etc... y
 que culmina en el actual Estatuto de los Trabajadores, así llamado
-irrisoriamente, claro atentado capitalista a XXXXDA[^5] de la clase
+irrisoriamente, claro atentado capitalista a \[...\][^5] de la clase
 trabajadora.
 
 Programado desde lejos a través de un proceso político que va desde el

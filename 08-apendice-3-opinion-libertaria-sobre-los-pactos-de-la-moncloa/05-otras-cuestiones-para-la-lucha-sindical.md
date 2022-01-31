@@ -22,16 +22,12 @@ convenio esté todavía vigente en 1978. ¿Quiere decir que esta cláusula
 de retroactividad que ese tanto por ciento quede excluido del aumento?
 En principio eso es lo que quiere decir, con dos salvedades importantes:
 
-a)  
-
-La retroactividad se aplica, una vez más, a la masa salarial global de
+a)  La retroactividad se aplica, una vez más, a la masa salarial global de
 cada empresa; por tanto, es bien posible que los trabajadores peor
 pagados puedan hacer valer su derecho al aumento del coste de la vida
 más el tanto por ciento pactado
 
-a)  
-
-La retroactividad no es aplicable cuando los aumentos pactados por
+a)  La retroactividad no es aplicable cuando los aumentos pactados por
 encima del coste de la vida tenían por motivo en los convenios el de una
 participación a los obreros en los aumentos de productividad (ver más
 abajo, sobre esta cuestión muy importante)

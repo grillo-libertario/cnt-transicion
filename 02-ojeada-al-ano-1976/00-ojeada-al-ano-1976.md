@@ -9,35 +9,43 @@ clases sociales y la destrucción del sistema capitalista.
 Así lo hizo constar el escrito del Pleno Nacional de Regionales de la
 CNT en enero de 1976:\
 
-\- Que solo la implantación del comunismo libertario puede acabar con la
-sociedad de clases, el sistema de explotación y la opresión que la
-origina
-
-\- Que la acción directa y antiparlamentaria es el único método de lucha
-de la clase trabajadora para conseguir su emancipación
-
-\- Que una articulación a través de las Federaciones de Sindicatos
-Únicos de Ramo es la garantía de la futura democracia obrera y de la
-gestión de la sociedad a través de la colectividad reunida en asamblea
-
+> \- Que solo la implantación del comunismo libertario puede acabar con la
+> sociedad de clases, el sistema de explotación y la opresión que la
+> origina
+> 
+> \- Que la acción directa y antiparlamentaria es el único método de lucha
+> de la clase trabajadora para conseguir su emancipación
+> 
+> \- Que una articulación a través de las Federaciones de Sindicatos
+> Únicos de Ramo es la garantía de la futura democracia obrera y de la
+> gestión de la sociedad a través de la colectividad reunida en asamblea
+> 
 > Basados en los puntos anteriormente expuestos y convencidos los
 > trabajadores que debemos luchar en los sindicatos libres e
 > independientes de los partidos, como único medio para alcanzar la
 > verdadera Revolución Social proponemos:
-
--   La solidaridad y respeto absoluto del hombre
--   La participación directa en la actuación y en la lucha
--   Rechazo del liderazgo y de la burocracia en los sindicatos
--   La independencia económica de los sindicatos respecto de cualquier
-    partido o Estado
--   Derecho a la objeción de conciencia
--   Abolición de la pena de muerte y métodos represivos
--   Eliminación del paro obrero y nivelación de sueldos con respecto al
-    nivel de vida
--   Abolición de la duplicidad de empleos fijos y eventuales, así como
-    del trabajo a destajo, primas y horas extras
--   Una educación racional e integral sin discriminación alguna
-
+> 
+> \-   La solidaridad y respeto absoluto del hombre
+>
+> \-   La participación directa en la actuación y en la lucha
+>
+> \-   Rechazo del liderazgo y de la burocracia en los sindicatos
+>
+> \-   La independencia económica de los sindicatos respecto de cualquier
+>      partido o Estado
+>
+> \-   Derecho a la objeción de conciencia
+>
+> \-   Abolición de la pena de muerte y métodos represivos
+>
+> \-   Eliminación del paro obrero y nivelación de sueldos con respecto al
+>      nivel de vida
+>
+> \-   Abolición de la duplicidad de empleos fijos y eventuales, así como
+>      del trabajo a destajo, primas y horas extras
+>
+> \-   Una educación racional e integral sin discriminación alguna
+ 
 La Confederación Nacional del Trabajo (CNT) considera que la presión
 revolucionaria de las conquistas reivindicativas de la clase obrera, en
 rebeldía contra los sistemas de explotación y opresión debe manifestarse

@@ -9,11 +9,11 @@ extras pagadas por fuera de la nómina que se hayan realizado por encima
 del máximo legal, que muchas empresas no respetan. Hay que negarse
 aceptar cálculos de las empresas que parezcan falsos.
 
-Hay otras cuestiones a considerar. En primer lugar, la *retroactividad.*
+Hay otras cuestiones a considerar. En primer lugar, la *retroactividad*.
 El Decreto-Ley establece (art. 9) que *quedarán suspendidos los efectos
-de las cláusulas automáticas de revisión salarial.... En cuanto tales
+de las cláusulas automáticas de revisión salarial\[...\] En cuanto tales
 cláusulas implicasen crecimientos salariales efectivos superiores a lo
-prevenido.* Con respecto a esta cuestión ha habido rasgaduras de
+prevenido*. Con respecto a esta cuestión ha habido rasgaduras de
 vestidos por parte de las centrales sindicales reformistas -sean
 bienvenidas en cuanto suponen oposición al Pacto. Supongamos una
 empresa, cuyo convenio colectivo acordado en 1977 prevé aumentos
@@ -41,7 +41,7 @@ En segundo lugar, si al llegar el mes de junio de 1978, el índice de
 precios está aumentando a más de un ritmo del 22% anual (es decir, si en
 los primeros 6 meses el aumento llega ya al 11,5%) puede pedirse otro
 aumento extra, correspondiente a ese crecimiento extra del índice de
-precios. Claro que aquí los partidos de *izquierda *hicieron otra gran
+precios. Claro que aquí los partidos de _izquierda_ hicieron otra gran
 rebaja y le dan salida a los capitalistas diciendo que ese aumento extra
 no hay que darlo si el crecimiento extra de los precios se debe a otra
 devaluación de la peseta, o a un aumento del precio del petróleo o a
@@ -89,7 +89,7 @@ al menos así lo fingir, se hubieran visto en una difícil tesitura a la
 hora de votar en las Cortes.
 
 Las demás cuestiones del Pacto de la Moncloa (es decir, las
-*contrapartidas,* de las cuales no hay rastro en el Decreto-Ley) son
+_contrapartidas_, de las cuales no hay rastro en el Decreto-Ley) son
 mero entretenimiento de los políticos. Cuando leemos que Felipe González
 está afiliado a la UGT, nos preguntamos ¿a qué sindicato? Suponemos que
 debe ser al Sindicato del Espectáculo (sección parlamentarios) Por esos
@@ -110,7 +110,7 @@ esos techos salariales pero que no pueden hacerlo porque el gobierno
 entonces les quitará ayudas de créditos, desgravación de impuestos, etc.
 
 Entonces hay que tener muy presente la importante cuestión de la
-*distribución *del aumento global tolerado, que ha de ser igualitaria o
+_distribución_ del aumento global tolerado, que ha de ser igualitaria o
 mejor aún exclusiva para los salarios más bajos. Excluir del aumento los
 sueldos y otras retribuciones de gerentes y altos cargos de empresas,
 puede ser una buena respuesta a las lamentaciones de los empresarios.

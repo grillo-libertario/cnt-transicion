@@ -1,6 +1,5 @@
 ---
-#title: Recetario
-subtitle: Raures 
+title: La CNT en la Transición
 author: Rafa Gómez López
 copyright: 2021 Rafa Gómez López
 rights: © 2019 Rafa Gómez López, CC BY-SA
@@ -27,7 +26,7 @@ geometry:
 #- includefoot
 - paperwidth=13cm
 - paperheight=20cm
+- top=2cm
 
-include-before: []
 ---
 

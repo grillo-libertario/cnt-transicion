@@ -5,7 +5,7 @@
 	- Apendices
 - [ ] Cabecera par: titulo
 - [ ] Cabecera impar: capítulo
-- [ ] XXXX -> [...]
+- [x] XXXX -> [...]
 - [ ] Centrar \*\*\*
 - [ ] Corrector automático de puntuación (es posible)
 	- [ ] Que los párrafos que no estén indentados acaben en símbolo de puntuación (. ! ? :). En casi que no sea así, avise. Revisar si hay algún otro símbolo de final de párrafo.

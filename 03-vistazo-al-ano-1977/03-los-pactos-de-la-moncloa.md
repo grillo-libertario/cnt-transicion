@@ -104,4 +104,5 @@ suscribió el acuerdo político, pero sí el económico.
 Los acuerdos fueron ratificados posteriormente en el Congreso y
 el Senado.
 
+\fotoalancho{cartel-pactosmoncloa}{Pie lorem ipsum que lo flipas para rellenar dos lineas o tres Pie lorem ipsum que lo flipas para rellenar dos lineas o tres}
 

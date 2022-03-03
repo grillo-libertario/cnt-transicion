@@ -76,24 +76,27 @@ oscura del gobierno dirigida a frenar el ascenso del sindicato
 anarquista, que se resintió1 indudablemente de la repercusión social
 que tuvo el Caso Scala.
 
-Resultaba evidente que la policía no buscaba nada ni a nadie ---ya
-tenían a los culpables--- se trataba simplemente de amedrentar a los
-cenetistas y de ahuyentar de la organización a miles de trabajadores
-afiliados que, si bien se identificaban con la línea sindical de los
-anarcosindicalistas, no estaban dispuestos a llegar demasiado lejos en
-su adhesión, ni mucho menos a desafiar una represión policial de aquella
-envergadura. La cosa no era de broma, las noticias de nuevas detenciones
-crearon un ambiente de inseguridad en gran parte de la afiliación. Por
-otra parte, la certeza de la implicación de la CNT en el atentado fue
-afianzándose en la opinión pública, lo que provocó un serio deterioro en
-la imagen de la organización y de los anarquistas por extensión. Si a
-esto añadimos las noticias de agresiones y asaltos por parte de grupos
-fascistas, que en aquellos días se incrementaron de forma muy
-considerable, podemos hacernos una imagen aproximada de la situación.
-Ser libertario en aquellos momentos se convirtió en algo bastante
-desagradable. Los medios de comunicación lo hicieron impopular, la
-policía y los grupos de la ultraderecha lo hicieron peligroso
+> Resultaba evidente que la policía no buscaba nada ni a nadie ---ya
+> tenían a los culpables--- se trataba simplemente de amedrentar a los
+> cenetistas y de ahuyentar de la organización a miles de trabajadores
+> afiliados que, si bien se identificaban con la línea sindical de los
+> anarcosindicalistas, no estaban dispuestos a llegar demasiado lejos en
+> su adhesión, ni mucho menos a desafiar una represión policial de aquella
+> envergadura. La cosa no era de broma, las noticias de nuevas detenciones
+> crearon un ambiente de inseguridad en gran parte de la afiliación. Por
+> otra parte, la certeza de la implicación de la CNT en el atentado fue
+> afianzándose en la opinión pública, lo que provocó un serio deterioro en
+> la imagen de la organización y de los anarquistas por extensión. Si a
+> esto añadimos las noticias de agresiones y asaltos por parte de grupos
+> fascistas, que en aquellos días se incrementaron de forma muy
+> considerable, podemos hacernos una imagen aproximada de la situación.
+> Ser libertario en aquellos momentos se convirtió en algo bastante
+> desagradable. Los medios de comunicación lo hicieron impopular, la
+> policía y los grupos de la ultraderecha lo hicieron peligroso
+> 
+> _Revista Polémica: El Caso Scala. Un proceso contra el anarcosindicalismo_
 
-Revista Polémica: El Caso Scala. Un proceso contra el anarcosindicalismo
+
+
 
 

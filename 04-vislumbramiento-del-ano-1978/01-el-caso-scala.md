@@ -1,6 +1,6 @@
 ## El caso Scala
 
- Caso Scala fue el proceso judicial desatado a raíz de un incendio
+El Caso Scala fue el proceso judicial desatado a raíz de un incendio
 provocado en la sala de fiestas Scala de Barcelona el 15 de
 enero de 1978 que resultó con la muerte de cuatro personas y en el que
 se intentó inculpar a las organizaciones anarquistas CNT y FAI.

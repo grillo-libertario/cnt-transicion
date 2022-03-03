@@ -97,7 +97,7 @@ nuestras posturas ante conflictos laborales que se oponen a sus leyes y
 las transgreden, son actos políticos normales dentro del sistema
 capitalista entre dos concepciones distintas sobre la naturaleza de los
 hechos sociales, pero no representan una declaración de guerra la CNT,
-hoy, en ningún sentido. Mañana.... será otro día.
+hoy, en ningún sentido. Mañana... será otro día.
 
 Los enemigos actuales de la CNT, los que más peligro representan, están
 dentro de la propia CNT; son los que se oponen y conspiran para que los

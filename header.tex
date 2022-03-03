@@ -121,7 +121,7 @@
 %}
 %\renewcommand{\subsubsection}{\clearpage\oldsubsubsection}
 
-\sectionfont{\clearpage\pagestyle{plain}\centering\color{Mahogany}\normalfont\LARGE\itshape}
+\sectionfont{\clearpage\thispagestyle{inicioCapitulo}\color{Mahogany}\normalfont\LARGE\itshape}
 \subsectionfont{\color{BlueViolet}\large}
 
 % do not hyphenate
@@ -138,6 +138,14 @@
 \newenvironment*{poema}
 {\parindent 0cm \parskip 0cm\verse}
 {\endverse}
+
+\fancypagestyle{inicioCapitulo}{%
+\fancyhf{}% clear all header and footer fields
+\renewcommand{\headrulewidth}{0pt}%
+\renewcommand{\footrulewidth}{0pt}%
+\fancyfoot[LE,RO]{\thepage}
+}
+
 
 \fancyhead[]{}
 \fancyhead[RO]{\textsc{\nouppercase{\leftmark}}}

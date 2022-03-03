@@ -1,8 +1,9 @@
 ## Los pactos de la Moncloa
 
-Los Pactos de la Moncloa (formalmente fueron dos, denominados Acuerdo
-sobre el programa de saneamiento y reforma de la economía y Acuerdo
-sobre el programa de actuación jurídica y política) fueron los acuerdos
+Los Pactos de la Moncloa (formalmente fueron dos, denominados
+_Acuerdo sobre el programa de saneamiento y reforma de la economía_ y
+_Acuerdo sobre el programa de actuación jurídica y política_)
+fueron los acuerdos
 firmados en el Palacio de la Moncloa durante la transición
 española el 25 de octubre de 1977, tomando conocimiento y
 comprometiéndose a su desarrollo el Congreso de los Diputados dos días

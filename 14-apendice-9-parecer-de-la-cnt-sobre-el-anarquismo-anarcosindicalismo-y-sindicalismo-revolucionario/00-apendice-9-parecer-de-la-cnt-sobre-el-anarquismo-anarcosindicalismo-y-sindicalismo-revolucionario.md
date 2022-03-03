@@ -1,4 +1,4 @@
-# Apéndice 9. Parecer de la CNT sobre el anarquismo, anarcosindicalismo y sindicalismo revolucionario
+# Parecer de la CNT sobre el anarquismo, anarcosindicalismo y sindicalismo revolucionario
 
 Las líneas que siguen tienen por objeto aportar elementos de juicio que
 ayuden a muchos compañeros a clarificar sus ideas en relación a ciertos

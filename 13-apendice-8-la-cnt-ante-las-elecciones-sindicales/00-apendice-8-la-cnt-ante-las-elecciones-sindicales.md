@@ -1,4 +1,4 @@
-# Apéndice 8. La CNT ante las elecciones Sindicales
+# La CNT ante las elecciones Sindicales
 
 La liquidación de la fascista CNS y la conquista de la libertad sindical
 por los trabajadores colocan el gobierno Suárez y la burguesía ante la

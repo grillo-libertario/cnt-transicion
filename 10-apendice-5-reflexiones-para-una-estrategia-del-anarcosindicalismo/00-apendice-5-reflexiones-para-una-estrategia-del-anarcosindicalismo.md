@@ -1,4 +1,4 @@
-# Apéndice 5. Reflexiones para una estrategia del anarcosindicalismo
+# Reflexiones para una estrategia del anarcosindicalismo
 
 Neutralizada la "izquierda" en el Parlamento, tras las elecciones del 15
 de junio,

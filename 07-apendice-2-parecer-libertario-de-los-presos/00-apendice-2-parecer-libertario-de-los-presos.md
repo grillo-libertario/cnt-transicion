@@ -1,4 +1,4 @@
-# Apéndice 2. Parecer libertario de los presos
+# Parecer libertario de los presos
 
 Cuando recibáis este comunicado nuestra situación lo será y es de lo más
 inhumano posible. No somos atendidos como personas. Estamos 71 en celdas

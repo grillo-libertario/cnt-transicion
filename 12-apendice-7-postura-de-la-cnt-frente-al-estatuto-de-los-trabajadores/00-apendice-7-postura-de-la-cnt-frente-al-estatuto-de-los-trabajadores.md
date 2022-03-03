@@ -1,4 +1,4 @@
-# Apéndice 7. Postura de la CNT frente al estatuto de los trabajadores
+# Postura de la CNT frente al estatuto de los trabajadores
 
 El estatuto del trabajador es la consecuencia irremediablemente lógica
 del proceso político-social que arranca del 15 de Junio de 1977

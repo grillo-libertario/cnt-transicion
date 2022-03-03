@@ -1,4 +1,4 @@
-# Apéndice 3. Opinión libertaria sobre los pactos de la Moncloa
+# Opinión libertaria sobre los pactos de la Moncloa
 
 Todos hubiéramos agradecido a este proyecto de oposición que ronda por
 el país el que hubiera informado al respetable: "Miren, el gobierno va a

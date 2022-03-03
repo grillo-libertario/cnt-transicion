@@ -1,4 +1,4 @@
-# Apéndice 6. La CNT y el movimiento libertario
+# La CNT y el movimiento libertario
 
 Las Jornadas Literarias pusieron en evidencia que si bien existía un
 eufórico resurgir de la ideología libertaria, lo que no se había dado

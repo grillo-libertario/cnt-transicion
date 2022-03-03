@@ -1,4 +1,4 @@
-# Apéndice 4. Acuerdos elaborados en el Pleno Nacional de Regionales Celebrado en noviembre de 1978
+# Acuerdos elaborados en el Pleno Nacional de Regionales Celebrado en noviembre de 1978
 
 Dictamen sobre estrategia Sindical. Contra la ley antiterrorismo
 

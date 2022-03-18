@@ -126,3 +126,9 @@ Revista CNT, número 29, Septiembre 1979
 
 [^5]: El texto original es inintelegible
 
+[^6]: Caso Scala (18 de marzo de 2022). En Wikipedia. https://es.wikipedia.org/wiki/Caso_Scala
+
+[^7]: Transicón española (17 de marzo de 2022). En Wikipedia. https://es.wikipedia.org/wiki/Transici%C3%B3n_espa%C3%B1ola
+
+[^8]: Pactos de la Moncloa (18 de marzo de 2022), En Wikipedia. https://es.wikipedia.org/wiki/Pactos_de_la_Moncloa
+

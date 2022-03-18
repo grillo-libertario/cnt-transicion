@@ -1,4 +1,4 @@
-## El caso Scala
+## El caso Scala[^6]
 
 El Caso Scala fue el proceso judicial desatado a raíz de un incendio
 provocado en la sala de fiestas Scala de Barcelona el 15 de
@@ -28,11 +28,13 @@ libertad de expresión en apoyo de Albert Boadella. Finalmente el martes
 del atentado, quienes fueron relacionados con el sindicato
 anarquista CNT.
 
-Un comando de la FAI (Federación Anarquista Ibérica), integrado por tres
-sujetos en cuyo poder se ha hallado asimismo documentación que les
-acredita como afiliados a la central sindical CNT ha sido autor, según
-la Jefatura de Policía de Barcelona, del atentado contra el
-restaurante-espectáculo Scala.
+> Un comando de la FAI (Federación Anarquista Ibérica), integrado por tres
+> sujetos en cuyo poder se ha hallado asimismo documentación que les
+> acredita como afiliados a la central sindical CNT ha sido autor, según
+> la Jefatura de Policía de Barcelona, del atentado contra el
+> restaurante-espectáculo Scala.
+>
+> Agencia Pyresa
 
 El periódico de la CNT francesa de la época (las páginas en francés del
 \"Espoir\"), publicó en Toulouse la implicación de colaboradores de la
@@ -94,9 +96,13 @@ que tuvo el Caso Scala.
 > desagradable. Los medios de comunicación lo hicieron impopular, la
 > policía y los grupos de la ultraderecha lo hicieron peligroso
 > 
+<<<<<<< HEAD
 > _Revista Polémica: El Caso Scala. Un proceso contra el anarcosindicalismo_
 
 
 
 
+=======
+> Revista Polémica: El Caso Scala. Un proceso contra el anarcosindicalismo
+>>>>>>> 817bc6c (enlaces wikipedia)
 

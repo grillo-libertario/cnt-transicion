@@ -1,4 +1,4 @@
-## Los pactos de la Moncloa
+## Los pactos de la Moncloa[^8]
 
 Los Pactos de la Moncloa (formalmente fueron dos, denominados
 _Acuerdo sobre el programa de saneamiento y reforma de la economía_ y
@@ -104,5 +104,8 @@ suscribió el acuerdo político, pero sí el económico.
 Los acuerdos fueron ratificados posteriormente en el Congreso y
 el Senado.
 
+<<<<<<< HEAD
 \fotoalancho{cartel-pactosmoncloa}{Pie lorem ipsum que lo flipas para rellenar dos lineas o tres Pie lorem ipsum que lo flipas para rellenar dos lineas o tres}
 
+=======
+>>>>>>> 817bc6c (enlaces wikipedia)

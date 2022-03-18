@@ -104,8 +104,13 @@ suscribió el acuerdo político, pero sí el económico.
 Los acuerdos fueron ratificados posteriormente en el Congreso y
 el Senado.
 
-<<<<<<< HEAD
-\fotoalancho{cartel-pactosmoncloa}{Pie lorem ipsum que lo flipas para rellenar dos lineas o tres Pie lorem ipsum que lo flipas para rellenar dos lineas o tres}
 
-=======
->>>>>>> 817bc6c (enlaces wikipedia)
+\fotoalalto{cartel-mitinvalencia.jpg}{Mitin anarcosindicalista en Valencia 1977}
+
+\fotoalancho{cartel-pactosmoncloa.jpg}{Cartel de CNT llamando a la movilización contra los Pactos de la Moncloa}
+
+\fotoalancho{cartel-huelga-gasolineras-1977.jpeg}{Cartel en solidaridad con la huelga de gasolineras de 1977-1978}
+
+\fotoalancho{huelga-gasolineras-1977.jpg}{Foto durante una jornada de lucha}
+
+\fotoalalto{jornadas-libertarias-1977.jpeg}{Cartel de las populares Jornadas Libertarias en Barcelona}

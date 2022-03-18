@@ -34,7 +34,7 @@ anarquista CNT.
 > la Jefatura de Policía de Barcelona, del atentado contra el
 > restaurante-espectáculo Scala.
 >
-> Agencia Pyresa
+> _Agencia Pyresa_
 
 El periódico de la CNT francesa de la época (las páginas en francés del
 \"Espoir\"), publicó en Toulouse la implicación de colaboradores de la
@@ -96,13 +96,8 @@ que tuvo el Caso Scala.
 > desagradable. Los medios de comunicación lo hicieron impopular, la
 > policía y los grupos de la ultraderecha lo hicieron peligroso
 > 
-<<<<<<< HEAD
 > _Revista Polémica: El Caso Scala. Un proceso contra el anarcosindicalismo_
 
 
 
-
-=======
-> Revista Polémica: El Caso Scala. Un proceso contra el anarcosindicalismo
->>>>>>> 817bc6c (enlaces wikipedia)
 

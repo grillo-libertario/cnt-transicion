@@ -32,4 +32,5 @@ fueron las siguientes[^4]:
 -   Ocupación de fincas de terratenientes sin explotar para trabajarlas
     comunitariamente
 
-
+\fotoalalto{agustin-rueda.jpeg}{Cartel denunciando el asesinato de Agustín Rueda en las cárceles españolas}
+\fotoalalto{han-sido-los-anarquistas.jpeg}{El ministro Martín Villa acusa a los anarquistas del atentado contra la sala de fiestas Scala}

@@ -113,4 +113,4 @@ el Senado.
 
 \fotoalancho{huelga-gasolineras-1977.jpg}{Foto durante una jornada de lucha}
 
-\fotoalalto{jornadas-libertarias-1977.jpeg}{Cartel de las populares Jornadas Libertarias en Barcelona}
+\fotoalancho{jornadas-libertarias-1977.jpeg}{Cartel de las populares Jornadas Libertarias en Barcelona}

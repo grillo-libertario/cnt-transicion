@@ -1,9 +1,9 @@
 # Transición española. Contexto histórico[^7]
 
 La Transición española es el período de la historia contemporánea de
-España en el que se llevó a cabo el proceso por el que el país dejó
+España, en el que se llevó a cabo el proceso por el que el país dejó
 atrás el régimen dictatorial del general Francisco Franco y pasó a
-regirse por una Constitución que restauraba la democracia. Dicha fase
+regirse por una Constitución, que restauraba la democracia. Dicha fase
 constituye la primera etapa del reinado de Juan Carlos I.
 
 Existe cierto consenso en situar el inicio de la transición en la muerte

@@ -17,7 +17,7 @@ Tlf/Fax: 93 375 58 53  \
 Aquest llibre ha estat dissenyat i maquetat amb programari lliure \
 **Imprimeix:** Descontrol   \
 **Tirada:** 200 exemplars  \
-**Depòsit Legal:** ??????? \
+**Depòsit Legal:** B 12381-2022	\
 **ISBN:** ??????  \
 
 \vspace*{\fill}

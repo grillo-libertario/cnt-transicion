@@ -11,13 +11,13 @@ Barcelona  \
 elgrillolibertario.org  \
 Tlf/Fax: 93 375 58 53  \
 
-**1a edició:** Febrer 2022 \
-**Disseny portada:** Nuei \
-**Maquetació:** David García Garzón i El Grillo Libertario  \
-Aquest llibre ha estat dissenyat i maquetat amb programari lliure \
-**Imprimeix:** Descontrol   \
+**1ª edición:** Febrer 2022 \
+**Diseño portada:** Nuei \
+**Maquetación:** David García Garzón y El Grillo Libertario  \
+Este libro ha sido diseñado i maquetado con software libre \
+**Imprime:** Descontrol   \
 **Tirada:** 200 exemplars  \
-**Depòsit Legal:** B 12381-2022	\
+**Depósito Legal:** B 12381-2022	\
 **ISBN:** ??????  \
 
 \vspace*{\fill}

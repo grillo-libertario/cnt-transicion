@@ -19,8 +19,8 @@ El articulista que escribe el escrito en la mencionada revista califica de espur
 
 En la otra parte, y aunque parezca mentira dentro de la CNT hoy en día hay que hablar de dos partes, se encuentran muchos compañeros anarcosindicalistas que han visto durante dos años la marcha de la CNT hacia una organización sindical tradicional, es decir, burocratizada y funcionando de arriba hacia sin tener el menor escrúpulo para expulsar a los compañeros y sin dejarles la más mínima defensa.
 
-\fotoalalto{cartel-V-Congreso-1979.JPG}{Cartel del V Congreso de CNT}
-\fotoalancho{a-pesar-de-todo.jpeg}{Cartel "A pesar de todo, CNT"}
-\fotoalalto{contra-comites.jpeg}{Campaña contra los comités de empresa, el nuevo modelo sindical posfranquista que se imponía y promovía desde el estado}
-\fotoalancho{pegatina-xixon-1979.jpeg}{Pegatina de Xixón, anunciando el sindicato}
-\fotoalancho{violencia-policial.jpeg}{Denunciando la violencia policial}
+\fotoalalto{cartel-V-Congreso-1979}{Cartel del V Congreso de CNT}
+\fotoalancho{a-pesar-de-todo}{Cartel "A pesar de todo, CNT"}
+\fotoalalto{contra-comites}{Campaña contra los comités de empresa, el nuevo modelo sindical posfranquista que se imponía y promovía desde el estado}
+\fotoalancho{pegatina-xixon-1979}{Pegatina de Xixón, anunciando el sindicato}
+\fotoalancho{violencia-policial}{Denunciando la violencia policial}

@@ -89,6 +89,6 @@ intentado la negociación vertical y un pequeño grupo de trabajadores,
 coordinado por Cipriano Damiano, que colaboraba con otras organizaciones
 no libertarias[^1].
 
-\fotoalancho{mitin-diciembre-1976.jpg}{Mitin de la CNT-AIT en Mataró 1976}
-\fotoalancho{mitin-mataro-diciembre-1976.jpeg}{Mitin de la CNT-AIT en Mataró 1976}
+\fotoalancho{mitin-diciembre-1976}{Mitin de la CNT-AIT en Mataró 1976}
+\fotoalancho{mitin-mataro-diciembre-1976}{Mitin de la CNT-AIT en Mataró 1976}
 

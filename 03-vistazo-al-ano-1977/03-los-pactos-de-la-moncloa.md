@@ -105,12 +105,12 @@ Los acuerdos fueron ratificados posteriormente en el Congreso y
 el Senado.
 
 
-\fotoalalto{cartel-mitinvalencia.jpg}{Mitin anarcosindicalista en Valencia 1977}
+\fotoalalto{cartel-mitinvalencia}{Mitin anarcosindicalista en Valencia 1977}
 
-\fotoalancho{cartel-pactosmoncloa.jpg}{Cartel de CNT llamando a la movilización contra los Pactos de la Moncloa}
+\fotoalancho{cartel-pactosmoncloa}{Cartel de CNT llamando a la movilización contra los Pactos de la Moncloa}
 
-\fotoalancho{cartel-huelga-gasolineras-1977.jpeg}{Cartel en solidaridad con la huelga de gasolineras de 1977-1978}
+\fotoalancho{cartel-huelga-gasolineras-1977}{Cartel en solidaridad con la huelga de gasolineras de 1977-1978}
 
-\fotoalancho{huelga-gasolineras-1977.jpg}{Foto durante una jornada de lucha}
+\fotoalancho{huelga-gasolineras-1977}{Foto durante una jornada de lucha}
 
-\fotoalancho{jornadas-libertarias-1977.jpeg}{Cartel de las populares Jornadas Libertarias en Barcelona}
+\fotoalancho{jornadas-libertarias-1977}{Cartel de las populares Jornadas Libertarias en Barcelona}

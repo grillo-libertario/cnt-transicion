@@ -1,8 +1,6 @@
 \cleartoleftpage
 \thispagestyle{empty}
 
-\logoeditora{images/elgrillolibertario}
-
 **El Grillo Libertario** \
 Distribuidora anarquista \
 C/ Florida 40, local 2A  \
@@ -18,35 +16,35 @@ Este libro ha sido diseñado i maquetado con software libre \
 **Imprime:** Descontrol   \
 **Tirada:** 200 exemplars  \
 **Depósito Legal:** B 12381-2022	\
-**ISBN:** ??????  \
+**ISBN:** 978-84-09-20799-2 \
 
 \vspace*{\fill}
 
 
 \footnotesize
-Aquesta obra està sota una [llicència de Creative Commons Reconeixement - CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/){rel="license}.
-A continuació es resumeixen els punts clau de la llicència,
-sense que, en cap cas, serveixi de substitució del text legal
-disponible integrament a [https://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
+Esta obra está bajo una [licencia de Creative Commons Reconocimiento - CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/){rel="license}.
+A continuación se resumen los puntos clave de la licencia,
+sin que, en ningún caso, sirva de substitución del texto legal
+disponible integramente en [https://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
 
 \cclicensetag{by-sa}
 
-**Ets lliure de**
+**Eres libre de**
 
-- **Compartir:** copiar i redistribuir el material en qualsevol mitjà o format.
-- **Adaptar:** remesclar, transformar i crear a partir del material per a qualsevol finalitat, inclús comercial.
+- **Compartir:** copiar y redistribuir el material en cualquier medio o formato.
+- **Adaptar:** remezclar, transformar y crear a partir del material pera cualquier finalidad finalidad, incluso comercial.
 
 
-La llicenciadora no pot revocar aquestes llibertats, mentre seguiu els termes de la llicència,
-que inclouen, entre d'altres, **les següents condicions**:
+La licenciadora no puede revocar estas libertades, mientras sigan los términos de la licencia,
+que incluyen, entre otros, **las seguientes condiciones**:
 
-- **Reconeixement:**
-Cal reconèixer l'autoria de manera adequada, proporcionar un enllaç a la llicència i indicar si s'han fet canvis.
-Ho pots fer de qualsevol manera raonable, però no de cap manera que suggereixi la llicenciadora dóna suport o patrocina l'ús que en feu.
+- **Reconocimiento:**
+Hace falta reconocer la autoría de manera adecuada, proporcionar un enlace a la licencia e indicar si se han hecho cambios.
+Lo puedes hacer de cuaqluier manera razonable, pero de ninguna manera que sufiera la licenciadora da apoyo o patrocina el uso que haga.
 
 - **CompartirIgual:**
-Si remescles, transformes o crees a partir del material,
-hauràs de difondre les teves contribucions sota la mateixa llicència que l'original.
+Si remezclas, transformas o creas a partir del material,
+tendrás que difundir tus contribuciones bajo la misma licencia que el original.
 
 \normalsize
 

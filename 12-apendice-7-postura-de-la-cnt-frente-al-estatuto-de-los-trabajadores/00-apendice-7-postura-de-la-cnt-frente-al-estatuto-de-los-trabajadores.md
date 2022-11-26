@@ -1,5 +1,7 @@
 # Postura de la CNT frente al estatuto de los trabajadores
 
+\vspace{2cm}
+
 El estatuto del trabajador es la consecuencia irremediablemente lógica
 del proceso político-social que arranca del 15 de Junio de 1977
 (elecciones generales), el cual se materializa en los Pactos de la

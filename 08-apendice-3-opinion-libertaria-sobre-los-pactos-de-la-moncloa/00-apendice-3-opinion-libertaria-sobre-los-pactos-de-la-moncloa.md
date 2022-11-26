@@ -1,5 +1,7 @@
 # Opinión libertaria sobre los pactos de la Moncloa
 
+\vspace{2cm}
+
 Todos hubiéramos agradecido a este proyecto de oposición que ronda por
 el país el que hubiera informado al respetable: "Miren, el gobierno va a
 imponer un plan de estabilización de salarios y de aumento de

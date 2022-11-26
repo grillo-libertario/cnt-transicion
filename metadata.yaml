@@ -10,7 +10,7 @@ lang: es-ES
 documentclass: article
 #classoption: twoside
 fontsize: 10pt
-fontfamily: times
+fontfamily: 
 colorlinks: true
 linkcolor: darkgray
 subparagraph: yes # workaround https://stackoverflow.com/questions/42916124/not-able-to-use-titlesec-with-markdown-and-pandoc

@@ -1,5 +1,7 @@
 # Acuerdos elaborados en el Pleno Nacional de Regionales Celebrado en noviembre de 1978
 
+\vspace{2cm}
+
 Dictamen sobre estrategia Sindical. Contra la ley antiterrorismo
 
 Ponencia sobre la problemática del Campo

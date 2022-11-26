@@ -1,5 +1,7 @@
 # La CNT y el movimiento libertario
 
+\vspace{2cm}
+
 Las Jornadas Literarias pusieron en evidencia que si bien existía un
 eufórico resurgir de la ideología libertaria, lo que no se había dado
 aún era un movimiento que aglutinase e hiciese coherente el conjunto.

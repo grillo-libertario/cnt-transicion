@@ -1,5 +1,7 @@
 # Parecer de la CNT sobre el anarquismo, anarcosindicalismo y sindicalismo revolucionario
 
+\vspace{2cm}
+
 Las líneas que siguen tienen por objeto aportar elementos de juicio que
 ayuden a muchos compañeros a clarificar sus ideas en relación a ciertos
 conceptos ideológicos clave, facilitándoles una mayor comprensión ante

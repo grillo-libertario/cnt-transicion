@@ -1,5 +1,8 @@
 # Ojeada al año 1976
 
+\vspace{2cm}
+
+
 La CNT se opuso a la transición porque quien la llevaba a término era la
 burguesía, y su objetivo era continuar explotando a los trabajadores.
 Por ello el sindicato anarcosindicalista se oponía y reafirmaba su

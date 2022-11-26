@@ -1,5 +1,7 @@
 # Parecer libertario de los presos
 
+\vspace{2cm}
+
 Cuando recibáis este comunicado nuestra situación lo será y es de lo más
 inhumano posible. No somos atendidos como personas. Estamos 71 en celdas
 bajas; no podemos comunicar ni con el abogado. Estamos pasando mucho

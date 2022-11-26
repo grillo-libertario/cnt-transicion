@@ -1,5 +1,7 @@
 # La CNT ante las elecciones Sindicales
 
+\vspace{2cm}
+
 La liquidación de la fascista CNS y la conquista de la libertad sindical
 por los trabajadores colocan el gobierno Suárez y la burguesía ante la
 perdida del instrumento de control que la CNS representaba.
